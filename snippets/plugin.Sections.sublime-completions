@@ -3,12 +3,12 @@
   "scope": "source.haskell",
   "completions": [
     {
-      "contents": "decrypt [${1:String}]",
-      "trigger": "decrypt"
+      "contents": "atMostOneSection [${1:SectionId}]",
+      "trigger": "atMostOneSection\tSections"
     },
     {
-      "contents": "encrypt [${1:String}]",
-      "trigger": "encrypt"
+      "contents": "encrypt [${1:SectionId}]",
+      "trigger": "exactlyOneSection\tSections"
     }
   ]
 }
