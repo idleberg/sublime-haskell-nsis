@@ -1,0 +1,30 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "strCheck \"${1:String}\" \"${2:String}\"",
+      "trigger": "strCheck"
+    },
+    {
+      "contents": "strIsPrefixOf \"${1:String}\" \"${2:String}\"",
+      "trigger": "strIsPrefixOf"
+    },
+    {
+      "contents": "strIsSuffixOf \"${1:String}\" \"${2:String}\"",
+      "trigger": "strIsSuffixOf"
+    },
+    {
+      "contents": "strReplace \"${1:String}\" \"${2:String}\" \"${3:String}\"",
+      "trigger": "strReplace"
+    },
+    {
+      "contents": "strUnlines [${1:String}]",
+      "trigger": "strUnlines"
+    },
+    {
+      "contents": "writeFileLines \"${1:FilePath}\"\" [${2:String}]",
+      "trigger": "writeFileLines"
+    }
+  ]
+}

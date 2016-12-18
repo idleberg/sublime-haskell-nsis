@@ -1,0 +1,14 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "decrypt [${1:String}]",
+      "trigger": "decrypt"
+    },
+    {
+      "contents": "encrypt [${1:String}]",
+      "trigger": "encrypt"
+    }
+  ]
+}

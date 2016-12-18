@@ -1,0 +1,26 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "import Development.NSIS.Plugins.Base64",
+      "trigger": "Base64"
+    },
+    {
+      "contents": "import Development.NSIS.Plugins.EnvVarUpdate",
+      "trigger": "EnvVarUpdate"
+    },
+    {
+      "contents": "import Development.NSIS.Plugins.Sections",
+      "trigger": "Sections"
+    },
+    {
+      "contents": "import Development.NSIS.Plugins.Taskbar",
+      "trigger": "Taskbar\tTBProgress"
+    },
+    {
+      "contents": "import Development.NSIS.Plugins.WinMessages",
+      "trigger": "WinMessages"
+    }
+  ]
+}

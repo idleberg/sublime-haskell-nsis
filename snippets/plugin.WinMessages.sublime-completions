@@ -1,0 +1,2030 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "EM_LIMITTEXT",
+      "trigger": "EM_LIMITTEXT"
+    },
+    {
+      "contents": "WM_USER",
+      "trigger": "WM_USER"
+    },
+    {
+      "contents": "WM_WININICHANGE",
+      "trigger": "WM_WININICHANGE"
+    },
+    {
+      "contents": "abm_ACTIVATE",
+      "trigger": "abm_ACTIVATE"
+    },
+    {
+      "contents": "abm_GETAUTOHIDEBAR",
+      "trigger": "abm_GETAUTOHIDEBAR"
+    },
+    {
+      "contents": "abm_GETSTATE",
+      "trigger": "abm_GETSTATE"
+    },
+    {
+      "contents": "abm_GETTASKBARPOS",
+      "trigger": "abm_GETTASKBARPOS"
+    },
+    {
+      "contents": "abm_NEW",
+      "trigger": "abm_NEW"
+    },
+    {
+      "contents": "abm_QUERYPOS",
+      "trigger": "abm_QUERYPOS"
+    },
+    {
+      "contents": "abm_REMOVE",
+      "trigger": "abm_REMOVE"
+    },
+    {
+      "contents": "abm_SETAUTOHIDEBAR",
+      "trigger": "abm_SETAUTOHIDEBAR"
+    },
+    {
+      "contents": "abm_SETPOS",
+      "trigger": "abm_SETPOS"
+    },
+    {
+      "contents": "abm_WINDOWPOSCHANGED",
+      "trigger": "abm_WINDOWPOSCHANGED"
+    },
+    {
+      "contents": "bm_ACTIVATE",
+      "trigger": "bm_ACTIVATE"
+    },
+    {
+      "contents": "bm_CLICK",
+      "trigger": "bm_CLICK"
+    },
+    {
+      "contents": "bm_DELTAPOS",
+      "trigger": "bm_DELTAPOS"
+    },
+    {
+      "contents": "bm_ENABLE_ARROWS",
+      "trigger": "bm_ENABLE_ARROWS"
+    },
+    {
+      "contents": "bm_GETAUTOHIDEBAR",
+      "trigger": "bm_GETAUTOHIDEBAR"
+    },
+    {
+      "contents": "bm_GETCHECK",
+      "trigger": "bm_GETCHECK"
+    },
+    {
+      "contents": "bm_GETIMAGE",
+      "trigger": "bm_GETIMAGE"
+    },
+    {
+      "contents": "bm_GETPOS",
+      "trigger": "bm_GETPOS"
+    },
+    {
+      "contents": "bm_GETRANGE",
+      "trigger": "bm_GETRANGE"
+    },
+    {
+      "contents": "bm_GETSCROLLINFO",
+      "trigger": "bm_GETSCROLLINFO"
+    },
+    {
+      "contents": "bm_GETSTATE",
+      "trigger": "bm_GETSTATE"
+    },
+    {
+      "contents": "bm_GETTASKBARPOS",
+      "trigger": "bm_GETTASKBARPOS"
+    },
+    {
+      "contents": "bm_NEW",
+      "trigger": "bm_NEW"
+    },
+    {
+      "contents": "bm_QUERYPOS",
+      "trigger": "bm_QUERYPOS"
+    },
+    {
+      "contents": "bm_REMOVE",
+      "trigger": "bm_REMOVE"
+    },
+    {
+      "contents": "bm_SETAUTOHIDEBAR",
+      "trigger": "bm_SETAUTOHIDEBAR"
+    },
+    {
+      "contents": "bm_SETCHECK",
+      "trigger": "bm_SETCHECK"
+    },
+    {
+      "contents": "bm_SETIMAGE",
+      "trigger": "bm_SETIMAGE"
+    },
+    {
+      "contents": "bm_SETMARQUEE",
+      "trigger": "bm_SETMARQUEE"
+    },
+    {
+      "contents": "bm_SETPOS",
+      "trigger": "bm_SETPOS"
+    },
+    {
+      "contents": "bm_SETRANGE",
+      "trigger": "bm_SETRANGE"
+    },
+    {
+      "contents": "bm_SETRANGEREDRAW",
+      "trigger": "bm_SETRANGEREDRAW"
+    },
+    {
+      "contents": "bm_SETSCROLLINFO",
+      "trigger": "bm_SETSCROLLINFO"
+    },
+    {
+      "contents": "bm_SETSTATE",
+      "trigger": "bm_SETSTATE"
+    },
+    {
+      "contents": "bm_SETSTEP",
+      "trigger": "bm_SETSTEP"
+    },
+    {
+      "contents": "bm_SETSTYLE",
+      "trigger": "bm_SETSTYLE"
+    },
+    {
+      "contents": "bm_STEPIT",
+      "trigger": "bm_STEPIT"
+    },
+    {
+      "contents": "bm_WINDOWPOSCHANGED",
+      "trigger": "bm_WINDOWPOSCHANGED"
+    },
+    {
+      "contents": "bst_CHECKED",
+      "trigger": "bst_CHECKED"
+    },
+    {
+      "contents": "bst_FOCUS",
+      "trigger": "bst_FOCUS"
+    },
+    {
+      "contents": "bst_INDETERMINATE",
+      "trigger": "bst_INDETERMINATE"
+    },
+    {
+      "contents": "bst_PUSHED",
+      "trigger": "bst_PUSHED"
+    },
+    {
+      "contents": "bst_UNCHECKED",
+      "trigger": "bst_UNCHECKED"
+    },
+    {
+      "contents": "cb_ADDSTRING",
+      "trigger": "cb_ADDSTRING"
+    },
+    {
+      "contents": "cb_DELETESTRING",
+      "trigger": "cb_DELETESTRING"
+    },
+    {
+      "contents": "cb_DIR",
+      "trigger": "cb_DIR"
+    },
+    {
+      "contents": "cb_ERR",
+      "trigger": "cb_ERR"
+    },
+    {
+      "contents": "cb_FINDSTRING",
+      "trigger": "cb_FINDSTRING"
+    },
+    {
+      "contents": "cb_FINDSTRINGEXACT",
+      "trigger": "cb_FINDSTRINGEXACT"
+    },
+    {
+      "contents": "cb_GETCOUNT",
+      "trigger": "cb_GETCOUNT"
+    },
+    {
+      "contents": "cb_GETCURSEL",
+      "trigger": "cb_GETCURSEL"
+    },
+    {
+      "contents": "cb_GETDROPPEDCONTROLRECT",
+      "trigger": "cb_GETDROPPEDCONTROLRECT"
+    },
+    {
+      "contents": "cb_GETDROPPEDSTATE",
+      "trigger": "cb_GETDROPPEDSTATE"
+    },
+    {
+      "contents": "cb_GETDROPPEDWIDTH",
+      "trigger": "cb_GETDROPPEDWIDTH"
+    },
+    {
+      "contents": "cb_GETEDITSEL",
+      "trigger": "cb_GETEDITSEL"
+    },
+    {
+      "contents": "cb_GETEXTENDEDUI",
+      "trigger": "cb_GETEXTENDEDUI"
+    },
+    {
+      "contents": "cb_GETHORIZONTALEXTENT",
+      "trigger": "cb_GETHORIZONTALEXTENT"
+    },
+    {
+      "contents": "cb_GETITEMDATA",
+      "trigger": "cb_GETITEMDATA"
+    },
+    {
+      "contents": "cb_GETITEMHEIGHT",
+      "trigger": "cb_GETITEMHEIGHT"
+    },
+    {
+      "contents": "cb_GETLBTEXT",
+      "trigger": "cb_GETLBTEXT"
+    },
+    {
+      "contents": "cb_GETLBTEXTLEN",
+      "trigger": "cb_GETLBTEXTLEN"
+    },
+    {
+      "contents": "cb_GETLOCALE",
+      "trigger": "cb_GETLOCALE"
+    },
+    {
+      "contents": "cb_GETTOPINDEX",
+      "trigger": "cb_GETTOPINDEX"
+    },
+    {
+      "contents": "cb_INITSTORAGE",
+      "trigger": "cb_INITSTORAGE"
+    },
+    {
+      "contents": "cb_INSERTSTRING",
+      "trigger": "cb_INSERTSTRING"
+    },
+    {
+      "contents": "cb_LIMITTEXT",
+      "trigger": "cb_LIMITTEXT"
+    },
+    {
+      "contents": "cb_MSGMAX",
+      "trigger": "cb_MSGMAX"
+    },
+    {
+      "contents": "cb_MULTIPLEADDSTRING",
+      "trigger": "cb_MULTIPLEADDSTRING"
+    },
+    {
+      "contents": "cb_RESETCONTENT",
+      "trigger": "cb_RESETCONTENT"
+    },
+    {
+      "contents": "cb_SELECTSTRING",
+      "trigger": "cb_SELECTSTRING"
+    },
+    {
+      "contents": "cb_SETCURSEL",
+      "trigger": "cb_SETCURSEL"
+    },
+    {
+      "contents": "cb_SETDROPPEDWIDTH",
+      "trigger": "cb_SETDROPPEDWIDTH"
+    },
+    {
+      "contents": "cb_SETEDITSEL",
+      "trigger": "cb_SETEDITSEL"
+    },
+    {
+      "contents": "cb_SETEXTENDEDUI",
+      "trigger": "cb_SETEXTENDEDUI"
+    },
+    {
+      "contents": "cb_SETHORIZONTALEXTENT",
+      "trigger": "cb_SETHORIZONTALEXTENT"
+    },
+    {
+      "contents": "cb_SETITEMDATA",
+      "trigger": "cb_SETITEMDATA"
+    },
+    {
+      "contents": "cb_SETITEMHEIGHT",
+      "trigger": "cb_SETITEMHEIGHT"
+    },
+    {
+      "contents": "cb_SETLOCALE",
+      "trigger": "cb_SETLOCALE"
+    },
+    {
+      "contents": "cb_SETTOPINDEX",
+      "trigger": "cb_SETTOPINDEX"
+    },
+    {
+      "contents": "cb_SHOWDROPDOWN",
+      "trigger": "cb_SHOWDROPDOWN"
+    },
+    {
+      "contents": "dbt_APPYBEGIN",
+      "trigger": "dbt_APPYBEGIN"
+    },
+    {
+      "contents": "dbt_APPYEND",
+      "trigger": "dbt_APPYEND"
+    },
+    {
+      "contents": "dbt_CONFIGCHANGECANCELED",
+      "trigger": "dbt_CONFIGCHANGECANCELED"
+    },
+    {
+      "contents": "dbt_CONFIGCHANGED",
+      "trigger": "dbt_CONFIGCHANGED"
+    },
+    {
+      "contents": "dbt_CONFIGMGAPI32",
+      "trigger": "dbt_CONFIGMGAPI32"
+    },
+    {
+      "contents": "dbt_CONFIGMGPRIVATE",
+      "trigger": "dbt_CONFIGMGPRIVATE"
+    },
+    {
+      "contents": "dbt_CUSTOMEVENT",
+      "trigger": "dbt_CUSTOMEVENT"
+    },
+    {
+      "contents": "dbt_DEVICEARRIVAL",
+      "trigger": "dbt_DEVICEARRIVAL"
+    },
+    {
+      "contents": "dbt_DEVICEQUERYREMOVE",
+      "trigger": "dbt_DEVICEQUERYREMOVE"
+    },
+    {
+      "contents": "dbt_DEVICEQUERYREMOVEFAILED",
+      "trigger": "dbt_DEVICEQUERYREMOVEFAILED"
+    },
+    {
+      "contents": "dbt_DEVICEREMOVECOMPLETE",
+      "trigger": "dbt_DEVICEREMOVECOMPLETE"
+    },
+    {
+      "contents": "dbt_DEVICEREMOVEPENDING",
+      "trigger": "dbt_DEVICEREMOVEPENDING"
+    },
+    {
+      "contents": "dbt_DEVICETYPESPECIFIC",
+      "trigger": "dbt_DEVICETYPESPECIFIC"
+    },
+    {
+      "contents": "dbt_DEVNODES_CHANGED",
+      "trigger": "dbt_DEVNODES_CHANGED"
+    },
+    {
+      "contents": "dbt_DEVTYP_DEVICEINTERFACE",
+      "trigger": "dbt_DEVTYP_DEVICEINTERFACE"
+    },
+    {
+      "contents": "dbt_DEVTYP_DEVNODE",
+      "trigger": "dbt_DEVTYP_DEVNODE"
+    },
+    {
+      "contents": "dbt_DEVTYP_HANDLE",
+      "trigger": "dbt_DEVTYP_HANDLE"
+    },
+    {
+      "contents": "dbt_DEVTYP_NET",
+      "trigger": "dbt_DEVTYP_NET"
+    },
+    {
+      "contents": "dbt_DEVTYP_OEM",
+      "trigger": "dbt_DEVTYP_OEM"
+    },
+    {
+      "contents": "dbt_DEVTYP_PORT",
+      "trigger": "dbt_DEVTYP_PORT"
+    },
+    {
+      "contents": "dbt_DEVTYP_VOLUME",
+      "trigger": "dbt_DEVTYP_VOLUME"
+    },
+    {
+      "contents": "dbt_LOW_DISK_SPACE",
+      "trigger": "dbt_LOW_DISK_SPACE"
+    },
+    {
+      "contents": "dbt_MONITORCHANGE",
+      "trigger": "dbt_MONITORCHANGE"
+    },
+    {
+      "contents": "dbt_NO_DISK_SPACE",
+      "trigger": "dbt_NO_DISK_SPACE"
+    },
+    {
+      "contents": "dbt_QUERYCHANGECONFIG",
+      "trigger": "dbt_QUERYCHANGECONFIG"
+    },
+    {
+      "contents": "dbt_SHELLLOGGEDON",
+      "trigger": "dbt_SHELLLOGGEDON"
+    },
+    {
+      "contents": "dbt_USERDEFINED",
+      "trigger": "dbt_USERDEFINED"
+    },
+    {
+      "contents": "dbt_VOLLOCKLOCKFAILED",
+      "trigger": "dbt_VOLLOCKLOCKFAILED"
+    },
+    {
+      "contents": "dbt_VOLLOCKLOCKRELEASED",
+      "trigger": "dbt_VOLLOCKLOCKRELEASED"
+    },
+    {
+      "contents": "dbt_VOLLOCKLOCKTAKEN",
+      "trigger": "dbt_VOLLOCKLOCKTAKEN"
+    },
+    {
+      "contents": "dbt_VOLLOCKQUERYLOCK",
+      "trigger": "dbt_VOLLOCKQUERYLOCK"
+    },
+    {
+      "contents": "dbt_VOLLOCKQUERYUNLOCK",
+      "trigger": "dbt_VOLLOCKQUERYUNLOCK"
+    },
+    {
+      "contents": "dbt_VOLLOCKUNLOCKFAILED",
+      "trigger": "dbt_VOLLOCKUNLOCKFAILED"
+    },
+    {
+      "contents": "dbt_VPOWERDAPI",
+      "trigger": "dbt_VPOWERDAPI"
+    },
+    {
+      "contents": "dbt_VXDINITCOMPLETE",
+      "trigger": "dbt_VXDINITCOMPLETE"
+    },
+    {
+      "contents": "dm_BITSPERPEL",
+      "trigger": "dm_BITSPERPEL"
+    },
+    {
+      "contents": "dm_COLLATE",
+      "trigger": "dm_COLLATE"
+    },
+    {
+      "contents": "dm_COLOR",
+      "trigger": "dm_COLOR"
+    },
+    {
+      "contents": "dm_COPIES",
+      "trigger": "dm_COPIES"
+    },
+    {
+      "contents": "dm_DEFAULTSOURCE",
+      "trigger": "dm_DEFAULTSOURCE"
+    },
+    {
+      "contents": "dm_DISPLAYFLAGS",
+      "trigger": "dm_DISPLAYFLAGS"
+    },
+    {
+      "contents": "dm_DISPLAYFREQUENCY",
+      "trigger": "dm_DISPLAYFREQUENCY"
+    },
+    {
+      "contents": "dm_DITHERTYPE",
+      "trigger": "dm_DITHERTYPE"
+    },
+    {
+      "contents": "dm_DUPLEX",
+      "trigger": "dm_DUPLEX"
+    },
+    {
+      "contents": "dm_FIRST",
+      "trigger": "dm_FIRST"
+    },
+    {
+      "contents": "dm_FORMNAME",
+      "trigger": "dm_FORMNAME"
+    },
+    {
+      "contents": "dm_GRAYSCALE",
+      "trigger": "dm_GRAYSCALE"
+    },
+    {
+      "contents": "dm_ICMINTENT",
+      "trigger": "dm_ICMINTENT"
+    },
+    {
+      "contents": "dm_ICMMETHOD",
+      "trigger": "dm_ICMMETHOD"
+    },
+    {
+      "contents": "dm_INTERLACED",
+      "trigger": "dm_INTERLACED"
+    },
+    {
+      "contents": "dm_LOGPIXELS",
+      "trigger": "dm_LOGPIXELS"
+    },
+    {
+      "contents": "dm_MEDIATYPE",
+      "trigger": "dm_MEDIATYPE"
+    },
+    {
+      "contents": "dm_NUP",
+      "trigger": "dm_NUP"
+    },
+    {
+      "contents": "dm_ORIENTATION",
+      "trigger": "dm_ORIENTATION"
+    },
+    {
+      "contents": "dm_PANNINGHEIGHT",
+      "trigger": "dm_PANNINGHEIGHT"
+    },
+    {
+      "contents": "dm_PANNINGWIDTH",
+      "trigger": "dm_PANNINGWIDTH"
+    },
+    {
+      "contents": "dm_PAPERLENGTH",
+      "trigger": "dm_PAPERLENGTH"
+    },
+    {
+      "contents": "dm_PAPERSIZE",
+      "trigger": "dm_PAPERSIZE"
+    },
+    {
+      "contents": "dm_PAPERWIDTH",
+      "trigger": "dm_PAPERWIDTH"
+    },
+    {
+      "contents": "dm_PELSHEIGHT",
+      "trigger": "dm_PELSHEIGHT"
+    },
+    {
+      "contents": "dm_PELSWIDTH",
+      "trigger": "dm_PELSWIDTH"
+    },
+    {
+      "contents": "dm_POSITION",
+      "trigger": "dm_POSITION"
+    },
+    {
+      "contents": "dm_PRINTQUALITY",
+      "trigger": "dm_PRINTQUALITY"
+    },
+    {
+      "contents": "dm_SCALE",
+      "trigger": "dm_SCALE"
+    },
+    {
+      "contents": "dm_SPECVERSION",
+      "trigger": "dm_SPECVERSION"
+    },
+    {
+      "contents": "dm_TTOPTION",
+      "trigger": "dm_TTOPTION"
+    },
+    {
+      "contents": "dm_YRESOLUTION",
+      "trigger": "dm_YRESOLUTION"
+    },
+    {
+      "contents": "em_CANUNDO",
+      "trigger": "em_CANUNDO"
+    },
+    {
+      "contents": "em_CHARFROMPOS",
+      "trigger": "em_CHARFROMPOS"
+    },
+    {
+      "contents": "em_EMPTYUNDOBUFFER",
+      "trigger": "em_EMPTYUNDOBUFFER"
+    },
+    {
+      "contents": "em_EXLIMITTEXT",
+      "trigger": "em_EXLIMITTEXT"
+    },
+    {
+      "contents": "em_FMTLINES",
+      "trigger": "em_FMTLINES"
+    },
+    {
+      "contents": "em_GETFIRSTVISIBLELINE",
+      "trigger": "em_GETFIRSTVISIBLELINE"
+    },
+    {
+      "contents": "em_GETHANDLE",
+      "trigger": "em_GETHANDLE"
+    },
+    {
+      "contents": "em_GETIMESTATUS",
+      "trigger": "em_GETIMESTATUS"
+    },
+    {
+      "contents": "em_GETLIMITTEXT",
+      "trigger": "em_GETLIMITTEXT"
+    },
+    {
+      "contents": "em_GETLINE",
+      "trigger": "em_GETLINE"
+    },
+    {
+      "contents": "em_GETLINECOUNT",
+      "trigger": "em_GETLINECOUNT"
+    },
+    {
+      "contents": "em_GETMARGINS",
+      "trigger": "em_GETMARGINS"
+    },
+    {
+      "contents": "em_GETMODIFY",
+      "trigger": "em_GETMODIFY"
+    },
+    {
+      "contents": "em_GETPASSWORDCHAR",
+      "trigger": "em_GETPASSWORDCHAR"
+    },
+    {
+      "contents": "em_GETRECT",
+      "trigger": "em_GETRECT"
+    },
+    {
+      "contents": "em_GETSEL",
+      "trigger": "em_GETSEL"
+    },
+    {
+      "contents": "em_GETTHUMB",
+      "trigger": "em_GETTHUMB"
+    },
+    {
+      "contents": "em_GETWORDBREAKPROC",
+      "trigger": "em_GETWORDBREAKPROC"
+    },
+    {
+      "contents": "em_LIMITTEXT",
+      "trigger": "em_LIMITTEXT"
+    },
+    {
+      "contents": "em_LINEFROMCHAR",
+      "trigger": "em_LINEFROMCHAR"
+    },
+    {
+      "contents": "em_LINEINDEX",
+      "trigger": "em_LINEINDEX"
+    },
+    {
+      "contents": "em_LINELENGTH",
+      "trigger": "em_LINELENGTH"
+    },
+    {
+      "contents": "em_LINESCROLL",
+      "trigger": "em_LINESCROLL"
+    },
+    {
+      "contents": "em_POSFROMCHAR",
+      "trigger": "em_POSFROMCHAR"
+    },
+    {
+      "contents": "em_REPLACESEL",
+      "trigger": "em_REPLACESEL"
+    },
+    {
+      "contents": "em_SCROLL",
+      "trigger": "em_SCROLL"
+    },
+    {
+      "contents": "em_SCROLLCARET",
+      "trigger": "em_SCROLLCARET"
+    },
+    {
+      "contents": "em_SETHANDLE",
+      "trigger": "em_SETHANDLE"
+    },
+    {
+      "contents": "em_SETIMESTATUS",
+      "trigger": "em_SETIMESTATUS"
+    },
+    {
+      "contents": "em_SETLIMITTEXT",
+      "trigger": "em_SETLIMITTEXT"
+    },
+    {
+      "contents": "em_SETMARGINS",
+      "trigger": "em_SETMARGINS"
+    },
+    {
+      "contents": "em_SETMODIFY",
+      "trigger": "em_SETMODIFY"
+    },
+    {
+      "contents": "em_SETPASSWORDCHAR",
+      "trigger": "em_SETPASSWORDCHAR"
+    },
+    {
+      "contents": "em_SETREADONLY",
+      "trigger": "em_SETREADONLY"
+    },
+    {
+      "contents": "em_SETRECT",
+      "trigger": "em_SETRECT"
+    },
+    {
+      "contents": "em_SETRECTNP",
+      "trigger": "em_SETRECTNP"
+    },
+    {
+      "contents": "em_SETSEL",
+      "trigger": "em_SETSEL"
+    },
+    {
+      "contents": "em_SETTABSTOPS",
+      "trigger": "em_SETTABSTOPS"
+    },
+    {
+      "contents": "em_SETWORDBREAKPROC",
+      "trigger": "em_SETWORDBREAKPROC"
+    },
+    {
+      "contents": "em_UNDO",
+      "trigger": "em_UNDO"
+    },
+    {
+      "contents": "hwnd_BROADCAST",
+      "trigger": "hwnd_BROADCAST"
+    },
+    {
+      "contents": "lb_ADDFILE",
+      "trigger": "lb_ADDFILE"
+    },
+    {
+      "contents": "lb_ADDSTRING",
+      "trigger": "lb_ADDSTRING"
+    },
+    {
+      "contents": "lb_DELETESTRING",
+      "trigger": "lb_DELETESTRING"
+    },
+    {
+      "contents": "lb_DIR",
+      "trigger": "lb_DIR"
+    },
+    {
+      "contents": "lb_ERR",
+      "trigger": "lb_ERR"
+    },
+    {
+      "contents": "lb_FINDSTRING",
+      "trigger": "lb_FINDSTRING"
+    },
+    {
+      "contents": "lb_FINDSTRINGEXACT",
+      "trigger": "lb_FINDSTRINGEXACT"
+    },
+    {
+      "contents": "lb_GETANCHORINDEX",
+      "trigger": "lb_GETANCHORINDEX"
+    },
+    {
+      "contents": "lb_GETCARETINDEX",
+      "trigger": "lb_GETCARETINDEX"
+    },
+    {
+      "contents": "lb_GETCOUNT",
+      "trigger": "lb_GETCOUNT"
+    },
+    {
+      "contents": "lb_GETCURSEL",
+      "trigger": "lb_GETCURSEL"
+    },
+    {
+      "contents": "lb_GETHORIZONTALEXTENT",
+      "trigger": "lb_GETHORIZONTALEXTENT"
+    },
+    {
+      "contents": "lb_GETITEMDATA",
+      "trigger": "lb_GETITEMDATA"
+    },
+    {
+      "contents": "lb_GETITEMHEIGHT",
+      "trigger": "lb_GETITEMHEIGHT"
+    },
+    {
+      "contents": "lb_GETITEMRECT",
+      "trigger": "lb_GETITEMRECT"
+    },
+    {
+      "contents": "lb_GETLOCALE",
+      "trigger": "lb_GETLOCALE"
+    },
+    {
+      "contents": "lb_GETSEL",
+      "trigger": "lb_GETSEL"
+    },
+    {
+      "contents": "lb_GETSELCOUNT",
+      "trigger": "lb_GETSELCOUNT"
+    },
+    {
+      "contents": "lb_GETSELITEMS",
+      "trigger": "lb_GETSELITEMS"
+    },
+    {
+      "contents": "lb_GETTEXT",
+      "trigger": "lb_GETTEXT"
+    },
+    {
+      "contents": "lb_GETTEXTLEN",
+      "trigger": "lb_GETTEXTLEN"
+    },
+    {
+      "contents": "lb_GETTOPINDEX",
+      "trigger": "lb_GETTOPINDEX"
+    },
+    {
+      "contents": "lb_INITSTORAGE",
+      "trigger": "lb_INITSTORAGE"
+    },
+    {
+      "contents": "lb_INSERTSTRING",
+      "trigger": "lb_INSERTSTRING"
+    },
+    {
+      "contents": "lb_ITEMFROMPOINT",
+      "trigger": "lb_ITEMFROMPOINT"
+    },
+    {
+      "contents": "lb_MSGMAX",
+      "trigger": "lb_MSGMAX"
+    },
+    {
+      "contents": "lb_MULTIPLEADDSTRING",
+      "trigger": "lb_MULTIPLEADDSTRING"
+    },
+    {
+      "contents": "lb_RESETCONTENT",
+      "trigger": "lb_RESETCONTENT"
+    },
+    {
+      "contents": "lb_SELECTSTRING",
+      "trigger": "lb_SELECTSTRING"
+    },
+    {
+      "contents": "lb_SELITEMRANGE",
+      "trigger": "lb_SELITEMRANGE"
+    },
+    {
+      "contents": "lb_SELITEMRANGEEX",
+      "trigger": "lb_SELITEMRANGEEX"
+    },
+    {
+      "contents": "lb_SETANCHORINDEX",
+      "trigger": "lb_SETANCHORINDEX"
+    },
+    {
+      "contents": "lb_SETCARETINDEX",
+      "trigger": "lb_SETCARETINDEX"
+    },
+    {
+      "contents": "lb_SETCOLUMNWIDTH",
+      "trigger": "lb_SETCOLUMNWIDTH"
+    },
+    {
+      "contents": "lb_SETCOUNT",
+      "trigger": "lb_SETCOUNT"
+    },
+    {
+      "contents": "lb_SETCURSEL",
+      "trigger": "lb_SETCURSEL"
+    },
+    {
+      "contents": "lb_SETHORIZONTALEXTENT",
+      "trigger": "lb_SETHORIZONTALEXTENT"
+    },
+    {
+      "contents": "lb_SETITEMDATA",
+      "trigger": "lb_SETITEMDATA"
+    },
+    {
+      "contents": "lb_SETITEMHEIGHT",
+      "trigger": "lb_SETITEMHEIGHT"
+    },
+    {
+      "contents": "lb_SETLOCALE",
+      "trigger": "lb_SETLOCALE"
+    },
+    {
+      "contents": "lb_SETSEL",
+      "trigger": "lb_SETSEL"
+    },
+    {
+      "contents": "lb_SETTABSTOPS",
+      "trigger": "lb_SETTABSTOPS"
+    },
+    {
+      "contents": "lb_SETTOPINDEX",
+      "trigger": "lb_SETTOPINDEX"
+    },
+    {
+      "contents": "lvm_FIRST",
+      "trigger": "lvm_FIRST"
+    },
+    {
+      "contents": "pbm_DELTAPOS",
+      "trigger": "pbm_DELTAPOS"
+    },
+    {
+      "contents": "pbm_GETPOS",
+      "trigger": "pbm_GETPOS"
+    },
+    {
+      "contents": "pbm_SETMARQUEE",
+      "trigger": "pbm_SETMARQUEE"
+    },
+    {
+      "contents": "pbm_SETPOS",
+      "trigger": "pbm_SETPOS"
+    },
+    {
+      "contents": "pbm_SETRANGE",
+      "trigger": "pbm_SETRANGE"
+    },
+    {
+      "contents": "pbm_SETSTEP",
+      "trigger": "pbm_SETSTEP"
+    },
+    {
+      "contents": "pbm_STEPIT",
+      "trigger": "pbm_STEPIT"
+    },
+    {
+      "contents": "sb_CONST_ALPHA",
+      "trigger": "sb_CONST_ALPHA"
+    },
+    {
+      "contents": "sb_GRAD_RECT",
+      "trigger": "sb_GRAD_RECT"
+    },
+    {
+      "contents": "sb_GRAD_TRI",
+      "trigger": "sb_GRAD_TRI"
+    },
+    {
+      "contents": "sb_NONE",
+      "trigger": "sb_NONE"
+    },
+    {
+      "contents": "sb_PIXEL_ALPHA",
+      "trigger": "sb_PIXEL_ALPHA"
+    },
+    {
+      "contents": "sb_PREMULT_ALPHA",
+      "trigger": "sb_PREMULT_ALPHA"
+    },
+    {
+      "contents": "sb_SIMPLEID",
+      "trigger": "sb_SIMPLEID"
+    },
+    {
+      "contents": "sbm_ENABLE_ARROWS",
+      "trigger": "sbm_ENABLE_ARROWS"
+    },
+    {
+      "contents": "sbm_GETPOS",
+      "trigger": "sbm_GETPOS"
+    },
+    {
+      "contents": "sbm_GETRANGE",
+      "trigger": "sbm_GETRANGE"
+    },
+    {
+      "contents": "sbm_GETSCROLLINFO",
+      "trigger": "sbm_GETSCROLLINFO"
+    },
+    {
+      "contents": "sbm_SETPOS",
+      "trigger": "sbm_SETPOS"
+    },
+    {
+      "contents": "sbm_SETRANGE",
+      "trigger": "sbm_SETRANGE"
+    },
+    {
+      "contents": "sbm_SETRANGEREDRAW",
+      "trigger": "sbm_SETRANGEREDRAW"
+    },
+    {
+      "contents": "sbm_SETSCROLLINFO",
+      "trigger": "sbm_SETSCROLLINFO"
+    },
+    {
+      "contents": "stm_GETICON",
+      "trigger": "stm_GETICON"
+    },
+    {
+      "contents": "stm_GETIMAGE",
+      "trigger": "stm_GETIMAGE"
+    },
+    {
+      "contents": "stm_MSGMAX",
+      "trigger": "stm_MSGMAX"
+    },
+    {
+      "contents": "stm_ONLY_THIS_INTERFACE",
+      "trigger": "stm_ONLY_THIS_INTERFACE"
+    },
+    {
+      "contents": "stm_ONLY_THIS_NAME",
+      "trigger": "stm_ONLY_THIS_NAME"
+    },
+    {
+      "contents": "stm_ONLY_THIS_PROTOCOL",
+      "trigger": "stm_ONLY_THIS_PROTOCOL"
+    },
+    {
+      "contents": "stm_ONLY_THIS_TYPE",
+      "trigger": "stm_ONLY_THIS_TYPE"
+    },
+    {
+      "contents": "stm_SETICON",
+      "trigger": "stm_SETICON"
+    },
+    {
+      "contents": "stm_SETIMAGE",
+      "trigger": "stm_SETIMAGE"
+    },
+    {
+      "contents": "sw_FORCEMINIMIZE",
+      "trigger": "sw_FORCEMINIMIZE"
+    },
+    {
+      "contents": "sw_HIDE",
+      "trigger": "sw_HIDE"
+    },
+    {
+      "contents": "sw_MAX",
+      "trigger": "sw_MAX"
+    },
+    {
+      "contents": "sw_MAXIMIZE",
+      "trigger": "sw_MAXIMIZE"
+    },
+    {
+      "contents": "sw_MINIMIZE",
+      "trigger": "sw_MINIMIZE"
+    },
+    {
+      "contents": "sw_NORMAL",
+      "trigger": "sw_NORMAL"
+    },
+    {
+      "contents": "sw_RESTORE",
+      "trigger": "sw_RESTORE"
+    },
+    {
+      "contents": "sw_SHOW",
+      "trigger": "sw_SHOW"
+    },
+    {
+      "contents": "sw_SHOWDEFAULT",
+      "trigger": "sw_SHOWDEFAULT"
+    },
+    {
+      "contents": "sw_SHOWMAXIMIZED",
+      "trigger": "sw_SHOWMAXIMIZED"
+    },
+    {
+      "contents": "sw_SHOWMINIMIZED",
+      "trigger": "sw_SHOWMINIMIZED"
+    },
+    {
+      "contents": "sw_SHOWMINNOACTIVE",
+      "trigger": "sw_SHOWMINNOACTIVE"
+    },
+    {
+      "contents": "sw_SHOWNA",
+      "trigger": "sw_SHOWNA"
+    },
+    {
+      "contents": "sw_SHOWNOACTIVATE",
+      "trigger": "sw_SHOWNOACTIVATE"
+    },
+    {
+      "contents": "sw_SHOWNORMAL",
+      "trigger": "sw_SHOWNORMAL"
+    },
+    {
+      "contents": "tcm_FIRST",
+      "trigger": "tcm_FIRST"
+    },
+    {
+      "contents": "wm_ACTIVATE",
+      "trigger": "wm_ACTIVATE"
+    },
+    {
+      "contents": "wm_ACTIVATEAPP",
+      "trigger": "wm_ACTIVATEAPP"
+    },
+    {
+      "contents": "wm_AFXFIRST",
+      "trigger": "wm_AFXFIRST"
+    },
+    {
+      "contents": "wm_AFXLAST",
+      "trigger": "wm_AFXLAST"
+    },
+    {
+      "contents": "wm_APP",
+      "trigger": "wm_APP"
+    },
+    {
+      "contents": "wm_APPCOMMAND",
+      "trigger": "wm_APPCOMMAND"
+    },
+    {
+      "contents": "wm_ASKCBFORMATNAME",
+      "trigger": "wm_ASKCBFORMATNAME"
+    },
+    {
+      "contents": "wm_CANCELJOURNAL",
+      "trigger": "wm_CANCELJOURNAL"
+    },
+    {
+      "contents": "wm_CANCELMODE",
+      "trigger": "wm_CANCELMODE"
+    },
+    {
+      "contents": "wm_CAPTURECHANGED",
+      "trigger": "wm_CAPTURECHANGED"
+    },
+    {
+      "contents": "wm_CHANGECBCHAIN",
+      "trigger": "wm_CHANGECBCHAIN"
+    },
+    {
+      "contents": "wm_CHANGEUISTATE",
+      "trigger": "wm_CHANGEUISTATE"
+    },
+    {
+      "contents": "wm_CHAR",
+      "trigger": "wm_CHAR"
+    },
+    {
+      "contents": "wm_CHARTOITEM",
+      "trigger": "wm_CHARTOITEM"
+    },
+    {
+      "contents": "wm_CHILDACTIVATE",
+      "trigger": "wm_CHILDACTIVATE"
+    },
+    {
+      "contents": "wm_CLEAR",
+      "trigger": "wm_CLEAR"
+    },
+    {
+      "contents": "wm_CLOSE",
+      "trigger": "wm_CLOSE"
+    },
+    {
+      "contents": "wm_COMMAND",
+      "trigger": "wm_COMMAND"
+    },
+    {
+      "contents": "wm_COMMNOTIFY",
+      "trigger": "wm_COMMNOTIFY"
+    },
+    {
+      "contents": "wm_COMPACTING",
+      "trigger": "wm_COMPACTING"
+    },
+    {
+      "contents": "wm_COMPAREITEM",
+      "trigger": "wm_COMPAREITEM"
+    },
+    {
+      "contents": "wm_CONTEXTMENU",
+      "trigger": "wm_CONTEXTMENU"
+    },
+    {
+      "contents": "wm_CONVERTREQUESTEX",
+      "trigger": "wm_CONVERTREQUESTEX"
+    },
+    {
+      "contents": "wm_COPY",
+      "trigger": "wm_COPY"
+    },
+    {
+      "contents": "wm_COPYDATA",
+      "trigger": "wm_COPYDATA"
+    },
+    {
+      "contents": "wm_CREATE",
+      "trigger": "wm_CREATE"
+    },
+    {
+      "contents": "wm_CTLCOLOR",
+      "trigger": "wm_CTLCOLOR"
+    },
+    {
+      "contents": "wm_CTLCOLORBTN",
+      "trigger": "wm_CTLCOLORBTN"
+    },
+    {
+      "contents": "wm_CTLCOLORDLG",
+      "trigger": "wm_CTLCOLORDLG"
+    },
+    {
+      "contents": "wm_CTLCOLOREDIT",
+      "trigger": "wm_CTLCOLOREDIT"
+    },
+    {
+      "contents": "wm_CTLCOLORLISTBOX",
+      "trigger": "wm_CTLCOLORLISTBOX"
+    },
+    {
+      "contents": "wm_CTLCOLORMSGBOX",
+      "trigger": "wm_CTLCOLORMSGBOX"
+    },
+    {
+      "contents": "wm_CTLCOLORSCROLLBAR",
+      "trigger": "wm_CTLCOLORSCROLLBAR"
+    },
+    {
+      "contents": "wm_CTLCOLORSTATIC",
+      "trigger": "wm_CTLCOLORSTATIC"
+    },
+    {
+      "contents": "wm_CUT",
+      "trigger": "wm_CUT"
+    },
+    {
+      "contents": "wm_DDE_FIRST",
+      "trigger": "wm_DDE_FIRST"
+    },
+    {
+      "contents": "wm_DEADCHAR",
+      "trigger": "wm_DEADCHAR"
+    },
+    {
+      "contents": "wm_DELETEITEM",
+      "trigger": "wm_DELETEITEM"
+    },
+    {
+      "contents": "wm_DESTROY",
+      "trigger": "wm_DESTROY"
+    },
+    {
+      "contents": "wm_DESTROYCLIPBOARD",
+      "trigger": "wm_DESTROYCLIPBOARD"
+    },
+    {
+      "contents": "wm_DEVICECHANGE",
+      "trigger": "wm_DEVICECHANGE"
+    },
+    {
+      "contents": "wm_DEVMODECHANGE",
+      "trigger": "wm_DEVMODECHANGE"
+    },
+    {
+      "contents": "wm_DISPLAYCHANGE",
+      "trigger": "wm_DISPLAYCHANGE"
+    },
+    {
+      "contents": "wm_DRAWCLIPBOARD",
+      "trigger": "wm_DRAWCLIPBOARD"
+    },
+    {
+      "contents": "wm_DRAWITEM",
+      "trigger": "wm_DRAWITEM"
+    },
+    {
+      "contents": "wm_DROPFILES",
+      "trigger": "wm_DROPFILES"
+    },
+    {
+      "contents": "wm_ENABLE",
+      "trigger": "wm_ENABLE"
+    },
+    {
+      "contents": "wm_ENDSESSION",
+      "trigger": "wm_ENDSESSION"
+    },
+    {
+      "contents": "wm_ENTERIDLE",
+      "trigger": "wm_ENTERIDLE"
+    },
+    {
+      "contents": "wm_ENTERMENULOOP",
+      "trigger": "wm_ENTERMENULOOP"
+    },
+    {
+      "contents": "wm_ENTERSIZEMOVE",
+      "trigger": "wm_ENTERSIZEMOVE"
+    },
+    {
+      "contents": "wm_ERASEBKGND",
+      "trigger": "wm_ERASEBKGND"
+    },
+    {
+      "contents": "wm_EXITMENULOOP",
+      "trigger": "wm_EXITMENULOOP"
+    },
+    {
+      "contents": "wm_EXITSIZEMOVE",
+      "trigger": "wm_EXITSIZEMOVE"
+    },
+    {
+      "contents": "wm_FONTCHANGE",
+      "trigger": "wm_FONTCHANGE"
+    },
+    {
+      "contents": "wm_GETDLGCODE",
+      "trigger": "wm_GETDLGCODE"
+    },
+    {
+      "contents": "wm_GETFONT",
+      "trigger": "wm_GETFONT"
+    },
+    {
+      "contents": "wm_GETHOTKEY",
+      "trigger": "wm_GETHOTKEY"
+    },
+    {
+      "contents": "wm_GETICON",
+      "trigger": "wm_GETICON"
+    },
+    {
+      "contents": "wm_GETMINMAXINFO",
+      "trigger": "wm_GETMINMAXINFO"
+    },
+    {
+      "contents": "wm_GETOBJECT",
+      "trigger": "wm_GETOBJECT"
+    },
+    {
+      "contents": "wm_GETTEXT",
+      "trigger": "wm_GETTEXT"
+    },
+    {
+      "contents": "wm_GETTEXTLENGTH",
+      "trigger": "wm_GETTEXTLENGTH"
+    },
+    {
+      "contents": "wm_HANDHELDFIRST",
+      "trigger": "wm_HANDHELDFIRST"
+    },
+    {
+      "contents": "wm_HANDHELDLAST",
+      "trigger": "wm_HANDHELDLAST"
+    },
+    {
+      "contents": "wm_HELP",
+      "trigger": "wm_HELP"
+    },
+    {
+      "contents": "wm_HOTKEY",
+      "trigger": "wm_HOTKEY"
+    },
+    {
+      "contents": "wm_HSCROLL",
+      "trigger": "wm_HSCROLL"
+    },
+    {
+      "contents": "wm_HSCROLLCLIPBOARD",
+      "trigger": "wm_HSCROLLCLIPBOARD"
+    },
+    {
+      "contents": "wm_ICONERASEBKGND",
+      "trigger": "wm_ICONERASEBKGND"
+    },
+    {
+      "contents": "wm_IME_CHAR",
+      "trigger": "wm_IME_CHAR"
+    },
+    {
+      "contents": "wm_IME_COMPOSITION",
+      "trigger": "wm_IME_COMPOSITION"
+    },
+    {
+      "contents": "wm_IME_COMPOSITIONFULL",
+      "trigger": "wm_IME_COMPOSITIONFULL"
+    },
+    {
+      "contents": "wm_IME_CONTROL",
+      "trigger": "wm_IME_CONTROL"
+    },
+    {
+      "contents": "wm_IME_ENDCOMPOSITION",
+      "trigger": "wm_IME_ENDCOMPOSITION"
+    },
+    {
+      "contents": "wm_IME_KEYDOWN",
+      "trigger": "wm_IME_KEYDOWN"
+    },
+    {
+      "contents": "wm_IME_KEYLAST",
+      "trigger": "wm_IME_KEYLAST"
+    },
+    {
+      "contents": "wm_IME_KEYUP",
+      "trigger": "wm_IME_KEYUP"
+    },
+    {
+      "contents": "wm_IME_NOTIFY",
+      "trigger": "wm_IME_NOTIFY"
+    },
+    {
+      "contents": "wm_IME_REQUEST",
+      "trigger": "wm_IME_REQUEST"
+    },
+    {
+      "contents": "wm_IME_SELECT",
+      "trigger": "wm_IME_SELECT"
+    },
+    {
+      "contents": "wm_IME_SETCONTEXT",
+      "trigger": "wm_IME_SETCONTEXT"
+    },
+    {
+      "contents": "wm_IME_STARTCOMPOSITION",
+      "trigger": "wm_IME_STARTCOMPOSITION"
+    },
+    {
+      "contents": "wm_INITDIALOG",
+      "trigger": "wm_INITDIALOG"
+    },
+    {
+      "contents": "wm_INITMENU",
+      "trigger": "wm_INITMENU"
+    },
+    {
+      "contents": "wm_INITMENUPOPUP",
+      "trigger": "wm_INITMENUPOPUP"
+    },
+    {
+      "contents": "wm_INPUT",
+      "trigger": "wm_INPUT"
+    },
+    {
+      "contents": "wm_INPUTLANGCHANGE",
+      "trigger": "wm_INPUTLANGCHANGE"
+    },
+    {
+      "contents": "wm_INPUTLANGCHANGEREQUEST",
+      "trigger": "wm_INPUTLANGCHANGEREQUEST"
+    },
+    {
+      "contents": "wm_KEYDOWN",
+      "trigger": "wm_KEYDOWN"
+    },
+    {
+      "contents": "wm_KEYFIRST",
+      "trigger": "wm_KEYFIRST"
+    },
+    {
+      "contents": "wm_KEYLAST",
+      "trigger": "wm_KEYLAST"
+    },
+    {
+      "contents": "wm_KEYUP",
+      "trigger": "wm_KEYUP"
+    },
+    {
+      "contents": "wm_KILLFOCUS",
+      "trigger": "wm_KILLFOCUS"
+    },
+    {
+      "contents": "wm_LBUTTONDBLCLK",
+      "trigger": "wm_LBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_LBUTTONDOWN",
+      "trigger": "wm_LBUTTONDOWN"
+    },
+    {
+      "contents": "wm_LBUTTONUP",
+      "trigger": "wm_LBUTTONUP"
+    },
+    {
+      "contents": "wm_MBUTTONDBLCLK",
+      "trigger": "wm_MBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_MBUTTONDOWN",
+      "trigger": "wm_MBUTTONDOWN"
+    },
+    {
+      "contents": "wm_MBUTTONUP",
+      "trigger": "wm_MBUTTONUP"
+    },
+    {
+      "contents": "wm_MDIACTIVATE",
+      "trigger": "wm_MDIACTIVATE"
+    },
+    {
+      "contents": "wm_MDICASCADE",
+      "trigger": "wm_MDICASCADE"
+    },
+    {
+      "contents": "wm_MDICREATE",
+      "trigger": "wm_MDICREATE"
+    },
+    {
+      "contents": "wm_MDIDESTROY",
+      "trigger": "wm_MDIDESTROY"
+    },
+    {
+      "contents": "wm_MDIGETACTIVE",
+      "trigger": "wm_MDIGETACTIVE"
+    },
+    {
+      "contents": "wm_MDIICONARRANGE",
+      "trigger": "wm_MDIICONARRANGE"
+    },
+    {
+      "contents": "wm_MDIMAXIMIZE",
+      "trigger": "wm_MDIMAXIMIZE"
+    },
+    {
+      "contents": "wm_MDINEXT",
+      "trigger": "wm_MDINEXT"
+    },
+    {
+      "contents": "wm_MDIREFRESHMENU",
+      "trigger": "wm_MDIREFRESHMENU"
+    },
+    {
+      "contents": "wm_MDIRESTORE",
+      "trigger": "wm_MDIRESTORE"
+    },
+    {
+      "contents": "wm_MDISETMENU",
+      "trigger": "wm_MDISETMENU"
+    },
+    {
+      "contents": "wm_MDITILE",
+      "trigger": "wm_MDITILE"
+    },
+    {
+      "contents": "wm_MEASUREITEM",
+      "trigger": "wm_MEASUREITEM"
+    },
+    {
+      "contents": "wm_MENUCHAR",
+      "trigger": "wm_MENUCHAR"
+    },
+    {
+      "contents": "wm_MENUCOMMAND",
+      "trigger": "wm_MENUCOMMAND"
+    },
+    {
+      "contents": "wm_MENUDRAG",
+      "trigger": "wm_MENUDRAG"
+    },
+    {
+      "contents": "wm_MENUGETOBJECT",
+      "trigger": "wm_MENUGETOBJECT"
+    },
+    {
+      "contents": "wm_MENURBUTTONUP",
+      "trigger": "wm_MENURBUTTONUP"
+    },
+    {
+      "contents": "wm_MENUSELECT",
+      "trigger": "wm_MENUSELECT"
+    },
+    {
+      "contents": "wm_MOUSEACTIVATE",
+      "trigger": "wm_MOUSEACTIVATE"
+    },
+    {
+      "contents": "wm_MOUSEFIRST",
+      "trigger": "wm_MOUSEFIRST"
+    },
+    {
+      "contents": "wm_MOUSEHOVER",
+      "trigger": "wm_MOUSEHOVER"
+    },
+    {
+      "contents": "wm_MOUSELAST",
+      "trigger": "wm_MOUSELAST"
+    },
+    {
+      "contents": "wm_MOUSELEAVE",
+      "trigger": "wm_MOUSELEAVE"
+    },
+    {
+      "contents": "wm_MOUSEMOVE",
+      "trigger": "wm_MOUSEMOVE"
+    },
+    {
+      "contents": "wm_MOUSEWHEEL",
+      "trigger": "wm_MOUSEWHEEL"
+    },
+    {
+      "contents": "wm_MOVE",
+      "trigger": "wm_MOVE"
+    },
+    {
+      "contents": "wm_MOVING",
+      "trigger": "wm_MOVING"
+    },
+    {
+      "contents": "wm_NCACTIVATE",
+      "trigger": "wm_NCACTIVATE"
+    },
+    {
+      "contents": "wm_NCCALCSIZE",
+      "trigger": "wm_NCCALCSIZE"
+    },
+    {
+      "contents": "wm_NCCREATE",
+      "trigger": "wm_NCCREATE"
+    },
+    {
+      "contents": "wm_NCDESTROY",
+      "trigger": "wm_NCDESTROY"
+    },
+    {
+      "contents": "wm_NCHITTEST",
+      "trigger": "wm_NCHITTEST"
+    },
+    {
+      "contents": "wm_NCLBUTTONDBLCLK",
+      "trigger": "wm_NCLBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_NCLBUTTONDOWN",
+      "trigger": "wm_NCLBUTTONDOWN"
+    },
+    {
+      "contents": "wm_NCLBUTTONUP",
+      "trigger": "wm_NCLBUTTONUP"
+    },
+    {
+      "contents": "wm_NCMBUTTONDBLCLK",
+      "trigger": "wm_NCMBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_NCMBUTTONDOWN",
+      "trigger": "wm_NCMBUTTONDOWN"
+    },
+    {
+      "contents": "wm_NCMBUTTONUP",
+      "trigger": "wm_NCMBUTTONUP"
+    },
+    {
+      "contents": "wm_NCMOUSEHOVER",
+      "trigger": "wm_NCMOUSEHOVER"
+    },
+    {
+      "contents": "wm_NCMOUSELEAVE",
+      "trigger": "wm_NCMOUSELEAVE"
+    },
+    {
+      "contents": "wm_NCMOUSEMOVE",
+      "trigger": "wm_NCMOUSEMOVE"
+    },
+    {
+      "contents": "wm_NCPAINT",
+      "trigger": "wm_NCPAINT"
+    },
+    {
+      "contents": "wm_NCRBUTTONDBLCLK",
+      "trigger": "wm_NCRBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_NCRBUTTONDOWN",
+      "trigger": "wm_NCRBUTTONDOWN"
+    },
+    {
+      "contents": "wm_NCRBUTTONUP",
+      "trigger": "wm_NCRBUTTONUP"
+    },
+    {
+      "contents": "wm_NCXBUTTONDBLCLK",
+      "trigger": "wm_NCXBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_NCXBUTTONDOWN",
+      "trigger": "wm_NCXBUTTONDOWN"
+    },
+    {
+      "contents": "wm_NCXBUTTONUP",
+      "trigger": "wm_NCXBUTTONUP"
+    },
+    {
+      "contents": "wm_NEXTDLGCTL",
+      "trigger": "wm_NEXTDLGCTL"
+    },
+    {
+      "contents": "wm_NEXTMENU",
+      "trigger": "wm_NEXTMENU"
+    },
+    {
+      "contents": "wm_NOTIFY",
+      "trigger": "wm_NOTIFY"
+    },
+    {
+      "contents": "wm_NOTIFYFORMAT",
+      "trigger": "wm_NOTIFYFORMAT"
+    },
+    {
+      "contents": "wm_NULL",
+      "trigger": "wm_NULL"
+    },
+    {
+      "contents": "wm_PAINT",
+      "trigger": "wm_PAINT"
+    },
+    {
+      "contents": "wm_PAINTCLIPBOARD",
+      "trigger": "wm_PAINTCLIPBOARD"
+    },
+    {
+      "contents": "wm_PAINTICON",
+      "trigger": "wm_PAINTICON"
+    },
+    {
+      "contents": "wm_PALETTECHANGED",
+      "trigger": "wm_PALETTECHANGED"
+    },
+    {
+      "contents": "wm_PALETTEISCHANGING",
+      "trigger": "wm_PALETTEISCHANGING"
+    },
+    {
+      "contents": "wm_PARENTNOTIFY",
+      "trigger": "wm_PARENTNOTIFY"
+    },
+    {
+      "contents": "wm_PASTE",
+      "trigger": "wm_PASTE"
+    },
+    {
+      "contents": "wm_PENWINFIRST",
+      "trigger": "wm_PENWINFIRST"
+    },
+    {
+      "contents": "wm_PENWINLAST",
+      "trigger": "wm_PENWINLAST"
+    },
+    {
+      "contents": "wm_POWER",
+      "trigger": "wm_POWER"
+    },
+    {
+      "contents": "wm_POWERBROADCAST",
+      "trigger": "wm_POWERBROADCAST"
+    },
+    {
+      "contents": "wm_PRINT",
+      "trigger": "wm_PRINT"
+    },
+    {
+      "contents": "wm_PRINTCLIENT",
+      "trigger": "wm_PRINTCLIENT"
+    },
+    {
+      "contents": "wm_QUERYDRAGICON",
+      "trigger": "wm_QUERYDRAGICON"
+    },
+    {
+      "contents": "wm_QUERYENDSESSION",
+      "trigger": "wm_QUERYENDSESSION"
+    },
+    {
+      "contents": "wm_QUERYNEWPALETTE",
+      "trigger": "wm_QUERYNEWPALETTE"
+    },
+    {
+      "contents": "wm_QUERYOPEN",
+      "trigger": "wm_QUERYOPEN"
+    },
+    {
+      "contents": "wm_QUERYUISTATE",
+      "trigger": "wm_QUERYUISTATE"
+    },
+    {
+      "contents": "wm_QUEUESYNC",
+      "trigger": "wm_QUEUESYNC"
+    },
+    {
+      "contents": "wm_QUIT",
+      "trigger": "wm_QUIT"
+    },
+    {
+      "contents": "wm_RASDIALEVENT",
+      "trigger": "wm_RASDIALEVENT"
+    },
+    {
+      "contents": "wm_RBUTTONDBLCLK",
+      "trigger": "wm_RBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_RBUTTONDOWN",
+      "trigger": "wm_RBUTTONDOWN"
+    },
+    {
+      "contents": "wm_RBUTTONUP",
+      "trigger": "wm_RBUTTONUP"
+    },
+    {
+      "contents": "wm_RENDERALLFORMATS",
+      "trigger": "wm_RENDERALLFORMATS"
+    },
+    {
+      "contents": "wm_RENDERFORMAT",
+      "trigger": "wm_RENDERFORMAT"
+    },
+    {
+      "contents": "wm_SETCURSOR",
+      "trigger": "wm_SETCURSOR"
+    },
+    {
+      "contents": "wm_SETFOCUS",
+      "trigger": "wm_SETFOCUS"
+    },
+    {
+      "contents": "wm_SETFONT",
+      "trigger": "wm_SETFONT"
+    },
+    {
+      "contents": "wm_SETHOTKEY",
+      "trigger": "wm_SETHOTKEY"
+    },
+    {
+      "contents": "wm_SETICON",
+      "trigger": "wm_SETICON"
+    },
+    {
+      "contents": "wm_SETREDRAW",
+      "trigger": "wm_SETREDRAW"
+    },
+    {
+      "contents": "wm_SETTEXT",
+      "trigger": "wm_SETTEXT"
+    },
+    {
+      "contents": "wm_SETTINGCHANGE",
+      "trigger": "wm_SETTINGCHANGE"
+    },
+    {
+      "contents": "wm_SHOWWINDOW",
+      "trigger": "wm_SHOWWINDOW"
+    },
+    {
+      "contents": "wm_SIZE",
+      "trigger": "wm_SIZE"
+    },
+    {
+      "contents": "wm_SIZECLIPBOARD",
+      "trigger": "wm_SIZECLIPBOARD"
+    },
+    {
+      "contents": "wm_SIZING",
+      "trigger": "wm_SIZING"
+    },
+    {
+      "contents": "wm_SPOOLERSTATUS",
+      "trigger": "wm_SPOOLERSTATUS"
+    },
+    {
+      "contents": "wm_STYLECHANGED",
+      "trigger": "wm_STYLECHANGED"
+    },
+    {
+      "contents": "wm_STYLECHANGING",
+      "trigger": "wm_STYLECHANGING"
+    },
+    {
+      "contents": "wm_SYNCPAINT",
+      "trigger": "wm_SYNCPAINT"
+    },
+    {
+      "contents": "wm_SYSCHAR",
+      "trigger": "wm_SYSCHAR"
+    },
+    {
+      "contents": "wm_SYSCOLORCHANGE",
+      "trigger": "wm_SYSCOLORCHANGE"
+    },
+    {
+      "contents": "wm_SYSCOMMAND",
+      "trigger": "wm_SYSCOMMAND"
+    },
+    {
+      "contents": "wm_SYSDEADCHAR",
+      "trigger": "wm_SYSDEADCHAR"
+    },
+    {
+      "contents": "wm_SYSKEYDOWN",
+      "trigger": "wm_SYSKEYDOWN"
+    },
+    {
+      "contents": "wm_SYSKEYUP",
+      "trigger": "wm_SYSKEYUP"
+    },
+    {
+      "contents": "wm_TABLET_FIRST",
+      "trigger": "wm_TABLET_FIRST"
+    },
+    {
+      "contents": "wm_TABLET_LAST",
+      "trigger": "wm_TABLET_LAST"
+    },
+    {
+      "contents": "wm_TCARD",
+      "trigger": "wm_TCARD"
+    },
+    {
+      "contents": "wm_THEMECHANGED",
+      "trigger": "wm_THEMECHANGED"
+    },
+    {
+      "contents": "wm_TIMECHANGE",
+      "trigger": "wm_TIMECHANGE"
+    },
+    {
+      "contents": "wm_TIMER",
+      "trigger": "wm_TIMER"
+    },
+    {
+      "contents": "wm_UNDO",
+      "trigger": "wm_UNDO"
+    },
+    {
+      "contents": "wm_UNICHAR",
+      "trigger": "wm_UNICHAR"
+    },
+    {
+      "contents": "wm_UNINITMENUPOPUP",
+      "trigger": "wm_UNINITMENUPOPUP"
+    },
+    {
+      "contents": "wm_UPDATEUISTATE",
+      "trigger": "wm_UPDATEUISTATE"
+    },
+    {
+      "contents": "wm_USER",
+      "trigger": "wm_USER"
+    },
+    {
+      "contents": "wm_USERCHANGED",
+      "trigger": "wm_USERCHANGED"
+    },
+    {
+      "contents": "wm_VKEYTOITEM",
+      "trigger": "wm_VKEYTOITEM"
+    },
+    {
+      "contents": "wm_VSCROLL",
+      "trigger": "wm_VSCROLL"
+    },
+    {
+      "contents": "wm_VSCROLLCLIPBOARD",
+      "trigger": "wm_VSCROLLCLIPBOARD"
+    },
+    {
+      "contents": "wm_WINDOWPOSCHANGED",
+      "trigger": "wm_WINDOWPOSCHANGED"
+    },
+    {
+      "contents": "wm_WINDOWPOSCHANGING",
+      "trigger": "wm_WINDOWPOSCHANGING"
+    },
+    {
+      "contents": "wm_WININICHANGE",
+      "trigger": "wm_WININICHANGE"
+    },
+    {
+      "contents": "wm_WTSSESSION_CHANGE",
+      "trigger": "wm_WTSSESSION_CHANGE"
+    },
+    {
+      "contents": "wm_XBUTTONDBLCLK",
+      "trigger": "wm_XBUTTONDBLCLK"
+    },
+    {
+      "contents": "wm_XBUTTONDOWN",
+      "trigger": "wm_XBUTTONDOWN"
+    },
+    {
+      "contents": "wm_XBUTTONUP",
+      "trigger": "wm_XBUTTONUP"
+    }
+  ]
+}

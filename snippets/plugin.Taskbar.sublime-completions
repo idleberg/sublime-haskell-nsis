@@ -1,0 +1,10 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "taskbar [${1:Action}]",
+      "trigger": "taskbar"
+    }
+  ]
+}

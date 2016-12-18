@@ -1,0 +1,426 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "allowRootDirInstall False",
+      "trigger": "allowRootDirInstall False"
+    },
+    {
+      "contents": "allowRootDirInstall True",
+      "trigger": "allowRootDirInstall True"
+    },
+    {
+      "contents": "fileOpen ${1:FileMode} \"${2:String}\"",
+      "trigger": "fileOpen NeverShow"
+    },
+    {
+      "contents": "headerImage Nothing",
+      "trigger": "headerImage Nothing"
+    },
+    {
+      "contents": "iff_ (fileExists \"${1:FilePath}\") \\$ ${2:do}\n\t${4:-- your code here}",
+      "trigger": "iff_ fileExists"
+    },
+    {
+      "contents": "page Components",
+      "trigger": "page Components"
+    },
+    {
+      "contents": "page Confirm",
+      "trigger": "page Confirm"
+    },
+    {
+      "contents": "page Directory",
+      "trigger": "page Directory"
+    },
+    {
+      "contents": "page Finish ${1:FinishOptions}",
+      "trigger": "page Finish"
+    },
+    {
+      "contents": "page InstFiles",
+      "trigger": "page InstFiles"
+    },
+    {
+      "contents": "page License \"${1:FilePath}\"",
+      "trigger": "page License"
+    },
+    {
+      "contents": "plugin \"${1:String}\" \"${2:String}\" [${3:Exp}]",
+      "trigger": "plugin"
+    },
+    {
+      "contents": "requestExecutionLevel Admin",
+      "trigger": "requestExecutionLevel Admin"
+    },
+    {
+      "contents": "requestExecutionLevel Highest",
+      "trigger": "requestExecutionLevel Highest"
+    },
+    {
+      "contents": "requestExecutionLevel None",
+      "trigger": "requestExecutionLevel None"
+    },
+    {
+      "contents": "requestExecutionLevel User",
+      "trigger": "requestExecutionLevel User"
+    },
+    {
+      "contents": "setCompressor BZIP2",
+      "trigger": "setCompressor BZIP2"
+    },
+    {
+      "contents": "setCompressor LZMA",
+      "trigger": "setCompressor LZMA"
+    },
+    {
+      "contents": "setCompressor ZLIB",
+      "trigger": "setCompressor ZLIB"
+    },
+    {
+      "contents": "setDetailsPrint Both",
+      "trigger": "setDetailsPrint Both"
+    },
+    {
+      "contents": "setDetailsPrint LastUsed",
+      "trigger": "setDetailsPrint LastUsed"
+    },
+    {
+      "contents": "setDetailsPrint ListOnly",
+      "trigger": "setDetailsPrint ListOnly"
+    },
+    {
+      "contents": "setDetailsPrint NoDetailsPrint",
+      "trigger": "setDetailsPrint NoDetailsPrint"
+    },
+    {
+      "contents": "setDetailsPrint TextOnly",
+      "trigger": "setDetailsPrint TextOnly"
+    },
+    {
+      "contents": "showInstDetails Hide",
+      "trigger": "showInstDetails Hide"
+    },
+    {
+      "contents": "showInstDetails NeverShow",
+      "trigger": "showInstDetails NeverShow"
+    },
+    {
+      "contents": "showInstDetails Show",
+      "trigger": "showInstDetails Show"
+    },
+    {
+      "contents": "showUninstDetails Hide",
+      "trigger": "showUninstDetails Hide"
+    },
+    {
+      "contents": "showUninstDetails NeverShow",
+      "trigger": "showUninstDetails NeverShow"
+    },
+    {
+      "contents": "showUninstDetails Show",
+      "trigger": "showUninstDetails Show"
+    },
+    {
+      "contents": "unpage Components",
+      "trigger": "unpage Components"
+    },
+    {
+      "contents": "unpage Confirm",
+      "trigger": "unpage Confirm"
+    },
+    {
+      "contents": "unpage Directory",
+      "trigger": "unpage Directory"
+    },
+    {
+      "contents": "unpage Finish ${1:FinishOptions}",
+      "trigger": "unpage Finish"
+    },
+    {
+      "contents": "unpage InstFiles",
+      "trigger": "unpage InstFiles"
+    },
+    {
+      "contents": "unpage License \"${1:FilePath}\"",
+      "trigger": "unpage License"
+    },
+    {
+      "contents": "abort${1: \"${2:String}\"}",
+      "trigger": "abort"
+    },
+    {
+      "contents": "addPluginDir \"${1:String}\"",
+      "trigger": "addPluginDir"
+    },
+    {
+      "contents": "alert \"${1:String}\"",
+      "trigger": "alert"
+    },
+    {
+      "contents": "allowRootDirInstall ${1:Bool}",
+      "trigger": "allowRootDirInstall"
+    },
+    {
+      "contents": "caption \"${1:String}\"",
+      "trigger": "caption"
+    },
+    {
+      "contents": "copyFiles [${1:Attrib}] \"${2:FilePath}\" \"${3:FilePath}\"",
+      "trigger": "copyFiles"
+    },
+    {
+      "contents": "createDirectory \"${1:String}\"",
+      "trigger": "createDirectory"
+    },
+    {
+      "contents": "createShortcut \"${1:FilePath}\" [${2:Attrib}]",
+      "trigger": "createShortcut"
+    },
+    {
+      "contents": "delete [${1:Attrib}] \"${2:FilePath}\"",
+      "trigger": "delete"
+    },
+    {
+      "contents": "deleteRegKey ${1:HKEY} \"${2:String}\"",
+      "trigger": "deleteRegKey"
+    },
+    {
+      "contents": "deleteRegValue ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "deleteRegValue"
+    },
+    {
+      "contents": "detailPrint \"${1:String}\"",
+      "trigger": "detailPrint"
+    },
+    {
+      "contents": "envVar ${1:String}",
+      "trigger": "envVar"
+    },
+    {
+      "contents": "event \"${1:String}\" \\$ do\n\t${3:-- your code here}",
+      "trigger": "event"
+    },
+    {
+      "contents": "exec \"${1:String}\"",
+      "trigger": "exec"
+    },
+    {
+      "contents": "execShell [${1:ShowWindow}] \"${2:String}\"",
+      "trigger": "execShell"
+    },
+    {
+      "contents": "execWait \"${1:String}\"",
+      "trigger": "execWait"
+    },
+    {
+      "contents": "file [${1:Attrib}] \"${2:FilePath}\"",
+      "trigger": "file"
+    },
+    {
+      "contents": "fileClose ${1:String}",
+      "trigger": "fileClose"
+    },
+    {
+      "contents": "fileWrite ${1:FileHandle} \"${2:String}\"",
+      "trigger": "fileWrite"
+    },
+    {
+      "contents": "findEach \"${1:FilePath}\" \\$ \\\\${2:Var}\n\t${4:-- your code here}",
+      "trigger": "findEach"
+    },
+    {
+      "contents": "findWindow \"${1:String}\" \"${2:String}\"${3: ${4:HWND}}",
+      "trigger": "findWindow"
+    },
+    {
+      "contents": "getDlgItem ${1:HWND} ${2:Int}",
+      "trigger": "getDlgItem"
+    },
+    {
+      "contents": "getFileTime \"${1:FilePath}\"}",
+      "trigger": "getFileTime"
+    },
+    {
+      "contents": "headerImage \\$ Just \"${1:FilePath}\"",
+      "trigger": "headerImage"
+    },
+    {
+      "contents": "iff (${1:ExpBool}) (${2:ActionTrue}) (${3:ActionFalse})",
+      "trigger": "iff"
+    },
+    {
+      "contents": "iff_ (${1:ExpBool}) \\$ ${2:do}\n\t${4:-- your code here}",
+      "trigger": "iff_"
+    },
+    {
+      "contents": "installDir \"${1:String}\"",
+      "trigger": "installDir"
+    },
+    {
+      "contents": "installDirRegKey ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "installDirRegKey"
+    },
+    {
+      "contents": "installIcon \"${1:String}\"",
+      "trigger": "installIcon"
+    },
+    {
+      "contents": "loop \\$ \\\\${2:Label} -> ${3:do}\n\t${4:-- your code here}",
+      "trigger": "loop"
+    },
+    {
+      "contents": "messageBox [${1:MessageBoxType}] \"${2:String}\"",
+      "trigger": "messageBox"
+    },
+    {
+      "contents": "name \"${1:String}\"",
+      "trigger": "name"
+    },
+    {
+      "contents": "onError (${1:Action}) (${2:ActionError})",
+      "trigger": "onError"
+    },
+    {
+      "contents": "onSelChange \\$ do\n\t${2:-- your code here}",
+      "trigger": "onSelChange"
+    },
+    {
+      "contents": "onPagePost \\$ do\n\t${2:-- your code here}",
+      "trigger": "onPagePost"
+    },
+    {
+      "contents": "onPagePre \\$ do\n\t${2:-- your code here}",
+      "trigger": "onPagePre"
+    },
+    {
+      "contents": "onPageShow \\$ do\n\t${2:-- your code here}",
+      "trigger": "onPageShow"
+    },
+    {
+      "contents": "outFile \"${1:String}.exe\"",
+      "trigger": "outFile"
+    },
+    {
+      "contents": "page ${1:Page}",
+      "trigger": "page"
+    },
+    {
+      "contents": "readRegStr ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "readRegStr"
+    },
+    {
+      "contents": "requestExecutionLevel ${1:Level}",
+      "trigger": "requestExecutionLevel"
+    },
+    {
+      "contents": "rmdir [${1:Attrib}] \"${2:FilePath}\"",
+      "trigger": "rmdir"
+    },
+    {
+      "contents": "section \"${1:String}\" [${2:Attrib}] \\$ ${3:do}\n\t${4:-- your code here}",
+      "trigger": "section"
+    },
+    {
+      "contents": "sectionGet ${1:SectionId} ${2:SectionFlag}",
+      "trigger": "sectionGet"
+    },
+    {
+      "contents": "sectionGetText ${1:SectionId} \"${2:String}\"",
+      "trigger": "sectionGetText"
+    },
+    {
+      "contents": "sectionGroup \"${1:String}\" [${2:Attrib}] \\$ ${3:do}\n\t${4:-- your code here}",
+      "trigger": "sectionGroup"
+    },
+    {
+      "contents": "sectionSet ${1:SectionId} ${2:SectionFlag} ${3:Bool}",
+      "trigger": "sectionSet"
+    },
+    {
+      "contents": "sectionSetText ${1:SectionId} \"${2:String}\"",
+      "trigger": "sectionSetText"
+    },
+    {
+      "contents": "sendMessage [${1:Attrib}] ${2:HWND} ${3:Int} ${4:a} ${5:b}",
+      "trigger": "sendMessage"
+    },
+    {
+      "contents": "setCompressor ${1:Compressor}",
+      "trigger": "setCompressor"
+    },
+    {
+      "contents": "setDetailsPrint \"${2:DetailsPrint}\"",
+      "trigger": "setDetailsPrint"
+    },
+    {
+      "contents": "setOutPath \"${1:String}\"",
+      "trigger": "setOutPath"
+    },
+    {
+      "contents": "showInstDetails ${1:Visibility}",
+      "trigger": "showInstDetails"
+    },
+    {
+      "contents": "showUninstDetails ${1:Visibility}",
+      "trigger": "showUninstDetails"
+    },
+    {
+      "contents": "sleep ${1:Int}",
+      "trigger": "sleep"
+    },
+    {
+      "contents": "strDrop ${1:Int} \"${2:String}\"",
+      "trigger": "strDrop"
+    },
+    {
+      "contents": "strLength \"${1:String}\"",
+      "trigger": "strLength"
+    },
+    {
+      "contents": "strRead \"${1:String}\"",
+      "trigger": "strRead"
+    },
+    {
+      "contents": "strShow ${1:Int}",
+      "trigger": "strShow"
+    },
+    {
+      "contents": "strTake ${1:Int} \"${2:String}\"",
+      "trigger": "strTake"
+    },
+    {
+      "contents": "uninstall \\$ ${1:do}\n\t${2:-- your code here}",
+      "trigger": "uninstall"
+    },
+    {
+      "contents": "uninstallIcon \"${1:String}\"",
+      "trigger": "uninstallIcon"
+    },
+    {
+      "contents": "unpage ${1:Page}",
+      "trigger": "unpage"
+    },
+    {
+      "contents": "while (${1:ExpBool}) \\$ ${2:do}\n\t${3:-- your code here}",
+      "trigger": "while"
+    },
+    {
+      "contents": "writeRegDWORD ${1:HKEY} \"${2:String}\" \"${3:String}\" \"${4:String}\"",
+      "trigger": "writeRegDWORD"
+    },
+    {
+      "contents": "writeRegExpandStr ${1:HKEY} \"${2:String}\" \"${3:String}\" \"${4:String}\"",
+      "trigger": "writeRegExpandStr"
+    },
+    {
+      "contents": "writeRegStr ${1:HKEY} \"${2:String}\" \"${3:String}\" \"${4:String}\"",
+      "trigger": "writeRegStr"
+    },
+    {
+      "contents": "writeUninstaller \"${1:String}.exe\"",
+      "trigger": "writeUninstaller"
+    }
+  ]
+}

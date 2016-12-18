@@ -1,0 +1,30 @@
+{
+  "#": "Generated with Atomizr – https://atom.io/packages/atomizr",
+  "scope": "source.haskell",
+  "completions": [
+    {
+      "contents": "deleteEnvVar ${1:HKEY} \"${2:String}\"",
+      "trigger": "deleteEnvVar"
+    },
+    {
+      "contents": "getEnvVar ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "getEnvVar"
+    },
+    {
+      "contents": "setEnvVar ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "setEnvVar"
+    },
+    {
+      "contents": "setEnvVarAppend ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "setEnvVarAppend"
+    },
+    {
+      "contents": "setEnvVarPrepend ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "setEnvVarPrepend"
+    },
+    {
+      "contents": "setEnvVarRemove ${1:HKEY} \"${2:String}\" \"${3:String}\"",
+      "trigger": "setEnvVarRemove"
+    }
+  ]
+}
