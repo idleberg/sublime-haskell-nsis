@@ -3,7 +3,7 @@
   "scope": "source.haskell",
   "completions": [
     {
-      "contents": "${1:variable} = do\n\tname \"${2:installer_name}\"\n\toutFile \"${3:${2:installer_name}}.exe\"\n\trequestExecutionLevel ${4:Admin}\n\tinstallDir \"$PROGRAMFILES/${5:${2:installer_name}}\"\n\n\tpage Components\n\tpage Directory\n\tpage InstFiles\n\n \tsection \"${6:section_name}\" [$7] $ do\n \t\t${8:-- your code here}",
+      "contents": "${1:variable} = do\n    name \"${2:installer_name}\"\n    outFile \"${3:${2:installer_name}}.exe\"\n    requestExecutionLevel ${4:Admin}\n    installDir \"\\$PROGRAMFILES/${5:${2:installer_name}}\"\n\n    page Components\n    page Directory\n    page InstFiles\n\n    section \"${6:section_name}\" [$7] \\$ do\n        ${8:-- your code here}", 
       "trigger": "scaffold\tBasic Script"
     }
   ]

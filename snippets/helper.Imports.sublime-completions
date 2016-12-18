@@ -4,23 +4,23 @@
   "completions": [
     {
       "contents": "import Development.NSIS.Plugins.Base64",
-      "trigger": "Base64"
+      "trigger": "Base64\timports"
     },
     {
       "contents": "import Development.NSIS.Plugins.EnvVarUpdate",
-      "trigger": "EnvVarUpdate"
+      "trigger": "EnvVarUpdate\timports"
     },
     {
       "contents": "import Development.NSIS.Plugins.Sections",
-      "trigger": "Sections"
+      "trigger": "Sections\timports"
     },
     {
       "contents": "import Development.NSIS.Plugins.Taskbar",
-      "trigger": "Taskbar\tTBProgress"
+      "trigger": "Taskbar\timports\tTBProgress"
     },
     {
       "contents": "import Development.NSIS.Plugins.WinMessages",
-      "trigger": "WinMessages"
+      "trigger": "WinMessages\timports"
     }
   ]
 }

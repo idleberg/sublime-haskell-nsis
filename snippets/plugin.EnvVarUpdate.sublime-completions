@@ -4,27 +4,27 @@
   "completions": [
     {
       "contents": "deleteEnvVar ${1:HKEY} \"${2:String}\"",
-      "trigger": "deleteEnvVar"
+      "trigger": "deleteEnvVar\tEnvVarUpdate"
     },
     {
       "contents": "getEnvVar ${1:HKEY} \"${2:String}\" \"${3:String}\"",
-      "trigger": "getEnvVar"
+      "trigger": "getEnvVar\tEnvVarUpdate"
     },
     {
       "contents": "setEnvVar ${1:HKEY} \"${2:String}\" \"${3:String}\"",
-      "trigger": "setEnvVar"
+      "trigger": "setEnvVar\tEnvVarUpdate"
     },
     {
       "contents": "setEnvVarAppend ${1:HKEY} \"${2:String}\" \"${3:String}\"",
-      "trigger": "setEnvVarAppend"
+      "trigger": "setEnvVarAppend\tEnvVarUpdate"
     },
     {
       "contents": "setEnvVarPrepend ${1:HKEY} \"${2:String}\" \"${3:String}\"",
-      "trigger": "setEnvVarPrepend"
+      "trigger": "setEnvVarPrepend\tEnvVarUpdate"
     },
     {
       "contents": "setEnvVarRemove ${1:HKEY} \"${2:String}\" \"${3:String}\"",
-      "trigger": "setEnvVarRemove"
+      "trigger": "setEnvVarRemove\tEnvVarUpdate"
     }
   ]
 }

@@ -4,11 +4,11 @@
   "completions": [
     {
       "contents": "decrypt ${2:\"${1:String}\"}",
-      "trigger": "decrypt"
+      "trigger": "decrypt\tBase64"
     },
     {
       "contents": "encrypt ${2:\"${1:String}\"}",
-      "trigger": "encrypt"
+      "trigger": "encrypt\tBase64"
     }
   ]
 }

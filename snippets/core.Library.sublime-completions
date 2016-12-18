@@ -4,27 +4,27 @@
   "completions": [
     {
       "contents": "strCheck \"${1:String}\" \"${2:String}\"",
-      "trigger": "strCheck"
+      "trigger": "strCheck\tLibrary"
     },
     {
       "contents": "strIsPrefixOf \"${1:String}\" \"${2:String}\"",
-      "trigger": "strIsPrefixOf"
+      "trigger": "strIsPrefixOf\tLibrary"
     },
     {
       "contents": "strIsSuffixOf \"${1:String}\" \"${2:String}\"",
-      "trigger": "strIsSuffixOf"
+      "trigger": "strIsSuffixOf\tLibrary"
     },
     {
       "contents": "strReplace \"${1:String}\" \"${2:String}\" \"${3:String}\"",
-      "trigger": "strReplace"
+      "trigger": "strReplace\tLibrary"
     },
     {
       "contents": "strUnlines [${1:String}]",
-      "trigger": "strUnlines"
+      "trigger": "strUnlines\tLibrary"
     },
     {
       "contents": "writeFileLines \"${1:FilePath}\"\" [${2:String}]",
-      "trigger": "writeFileLines"
+      "trigger": "writeFileLines\tLibrary"
     }
   ]
 }

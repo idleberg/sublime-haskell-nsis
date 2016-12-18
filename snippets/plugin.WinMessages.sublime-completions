@@ -4,2027 +4,2027 @@
   "completions": [
     {
       "contents": "EM_LIMITTEXT",
-      "trigger": "EM_LIMITTEXT"
+      "trigger": "EM_LIMITTEXT\tWinMessages"
     },
     {
       "contents": "WM_USER",
-      "trigger": "WM_USER"
+      "trigger": "WM_USER\tWinMessages"
     },
     {
       "contents": "WM_WININICHANGE",
-      "trigger": "WM_WININICHANGE"
+      "trigger": "WM_WININICHANGE\tWinMessages"
     },
     {
       "contents": "abm_ACTIVATE",
-      "trigger": "abm_ACTIVATE"
+      "trigger": "abm_ACTIVATE\tWinMessages"
     },
     {
       "contents": "abm_GETAUTOHIDEBAR",
-      "trigger": "abm_GETAUTOHIDEBAR"
+      "trigger": "abm_GETAUTOHIDEBAR\tWinMessages"
     },
     {
       "contents": "abm_GETSTATE",
-      "trigger": "abm_GETSTATE"
+      "trigger": "abm_GETSTATE\tWinMessages"
     },
     {
       "contents": "abm_GETTASKBARPOS",
-      "trigger": "abm_GETTASKBARPOS"
+      "trigger": "abm_GETTASKBARPOS\tWinMessages"
     },
     {
       "contents": "abm_NEW",
-      "trigger": "abm_NEW"
+      "trigger": "abm_NEW\tWinMessages"
     },
     {
       "contents": "abm_QUERYPOS",
-      "trigger": "abm_QUERYPOS"
+      "trigger": "abm_QUERYPOS\tWinMessages"
     },
     {
       "contents": "abm_REMOVE",
-      "trigger": "abm_REMOVE"
+      "trigger": "abm_REMOVE\tWinMessages"
     },
     {
       "contents": "abm_SETAUTOHIDEBAR",
-      "trigger": "abm_SETAUTOHIDEBAR"
+      "trigger": "abm_SETAUTOHIDEBAR\tWinMessages"
     },
     {
       "contents": "abm_SETPOS",
-      "trigger": "abm_SETPOS"
+      "trigger": "abm_SETPOS\tWinMessages"
     },
     {
       "contents": "abm_WINDOWPOSCHANGED",
-      "trigger": "abm_WINDOWPOSCHANGED"
+      "trigger": "abm_WINDOWPOSCHANGED\tWinMessages"
     },
     {
       "contents": "bm_ACTIVATE",
-      "trigger": "bm_ACTIVATE"
+      "trigger": "bm_ACTIVATE\tWinMessages"
     },
     {
       "contents": "bm_CLICK",
-      "trigger": "bm_CLICK"
+      "trigger": "bm_CLICK\tWinMessages"
     },
     {
       "contents": "bm_DELTAPOS",
-      "trigger": "bm_DELTAPOS"
+      "trigger": "bm_DELTAPOS\tWinMessages"
     },
     {
       "contents": "bm_ENABLE_ARROWS",
-      "trigger": "bm_ENABLE_ARROWS"
+      "trigger": "bm_ENABLE_ARROWS\tWinMessages"
     },
     {
       "contents": "bm_GETAUTOHIDEBAR",
-      "trigger": "bm_GETAUTOHIDEBAR"
+      "trigger": "bm_GETAUTOHIDEBAR\tWinMessages"
     },
     {
       "contents": "bm_GETCHECK",
-      "trigger": "bm_GETCHECK"
+      "trigger": "bm_GETCHECK\tWinMessages"
     },
     {
       "contents": "bm_GETIMAGE",
-      "trigger": "bm_GETIMAGE"
+      "trigger": "bm_GETIMAGE\tWinMessages"
     },
     {
       "contents": "bm_GETPOS",
-      "trigger": "bm_GETPOS"
+      "trigger": "bm_GETPOS\tWinMessages"
     },
     {
       "contents": "bm_GETRANGE",
-      "trigger": "bm_GETRANGE"
+      "trigger": "bm_GETRANGE\tWinMessages"
     },
     {
       "contents": "bm_GETSCROLLINFO",
-      "trigger": "bm_GETSCROLLINFO"
+      "trigger": "bm_GETSCROLLINFO\tWinMessages"
     },
     {
       "contents": "bm_GETSTATE",
-      "trigger": "bm_GETSTATE"
+      "trigger": "bm_GETSTATE\tWinMessages"
     },
     {
       "contents": "bm_GETTASKBARPOS",
-      "trigger": "bm_GETTASKBARPOS"
+      "trigger": "bm_GETTASKBARPOS\tWinMessages"
     },
     {
       "contents": "bm_NEW",
-      "trigger": "bm_NEW"
+      "trigger": "bm_NEW\tWinMessages"
     },
     {
       "contents": "bm_QUERYPOS",
-      "trigger": "bm_QUERYPOS"
+      "trigger": "bm_QUERYPOS\tWinMessages"
     },
     {
       "contents": "bm_REMOVE",
-      "trigger": "bm_REMOVE"
+      "trigger": "bm_REMOVE\tWinMessages"
     },
     {
       "contents": "bm_SETAUTOHIDEBAR",
-      "trigger": "bm_SETAUTOHIDEBAR"
+      "trigger": "bm_SETAUTOHIDEBAR\tWinMessages"
     },
     {
       "contents": "bm_SETCHECK",
-      "trigger": "bm_SETCHECK"
+      "trigger": "bm_SETCHECK\tWinMessages"
     },
     {
       "contents": "bm_SETIMAGE",
-      "trigger": "bm_SETIMAGE"
+      "trigger": "bm_SETIMAGE\tWinMessages"
     },
     {
       "contents": "bm_SETMARQUEE",
-      "trigger": "bm_SETMARQUEE"
+      "trigger": "bm_SETMARQUEE\tWinMessages"
     },
     {
       "contents": "bm_SETPOS",
-      "trigger": "bm_SETPOS"
+      "trigger": "bm_SETPOS\tWinMessages"
     },
     {
       "contents": "bm_SETRANGE",
-      "trigger": "bm_SETRANGE"
+      "trigger": "bm_SETRANGE\tWinMessages"
     },
     {
       "contents": "bm_SETRANGEREDRAW",
-      "trigger": "bm_SETRANGEREDRAW"
+      "trigger": "bm_SETRANGEREDRAW\tWinMessages"
     },
     {
       "contents": "bm_SETSCROLLINFO",
-      "trigger": "bm_SETSCROLLINFO"
+      "trigger": "bm_SETSCROLLINFO\tWinMessages"
     },
     {
       "contents": "bm_SETSTATE",
-      "trigger": "bm_SETSTATE"
+      "trigger": "bm_SETSTATE\tWinMessages"
     },
     {
       "contents": "bm_SETSTEP",
-      "trigger": "bm_SETSTEP"
+      "trigger": "bm_SETSTEP\tWinMessages"
     },
     {
       "contents": "bm_SETSTYLE",
-      "trigger": "bm_SETSTYLE"
+      "trigger": "bm_SETSTYLE\tWinMessages"
     },
     {
       "contents": "bm_STEPIT",
-      "trigger": "bm_STEPIT"
+      "trigger": "bm_STEPIT\tWinMessages"
     },
     {
       "contents": "bm_WINDOWPOSCHANGED",
-      "trigger": "bm_WINDOWPOSCHANGED"
+      "trigger": "bm_WINDOWPOSCHANGED\tWinMessages"
     },
     {
       "contents": "bst_CHECKED",
-      "trigger": "bst_CHECKED"
+      "trigger": "bst_CHECKED\tWinMessages"
     },
     {
       "contents": "bst_FOCUS",
-      "trigger": "bst_FOCUS"
+      "trigger": "bst_FOCUS\tWinMessages"
     },
     {
       "contents": "bst_INDETERMINATE",
-      "trigger": "bst_INDETERMINATE"
+      "trigger": "bst_INDETERMINATE\tWinMessages"
     },
     {
       "contents": "bst_PUSHED",
-      "trigger": "bst_PUSHED"
+      "trigger": "bst_PUSHED\tWinMessages"
     },
     {
       "contents": "bst_UNCHECKED",
-      "trigger": "bst_UNCHECKED"
+      "trigger": "bst_UNCHECKED\tWinMessages"
     },
     {
       "contents": "cb_ADDSTRING",
-      "trigger": "cb_ADDSTRING"
+      "trigger": "cb_ADDSTRING\tWinMessages"
     },
     {
       "contents": "cb_DELETESTRING",
-      "trigger": "cb_DELETESTRING"
+      "trigger": "cb_DELETESTRING\tWinMessages"
     },
     {
       "contents": "cb_DIR",
-      "trigger": "cb_DIR"
+      "trigger": "cb_DIR\tWinMessages"
     },
     {
       "contents": "cb_ERR",
-      "trigger": "cb_ERR"
+      "trigger": "cb_ERR\tWinMessages"
     },
     {
       "contents": "cb_FINDSTRING",
-      "trigger": "cb_FINDSTRING"
+      "trigger": "cb_FINDSTRING\tWinMessages"
     },
     {
       "contents": "cb_FINDSTRINGEXACT",
-      "trigger": "cb_FINDSTRINGEXACT"
+      "trigger": "cb_FINDSTRINGEXACT\tWinMessages"
     },
     {
       "contents": "cb_GETCOUNT",
-      "trigger": "cb_GETCOUNT"
+      "trigger": "cb_GETCOUNT\tWinMessages"
     },
     {
       "contents": "cb_GETCURSEL",
-      "trigger": "cb_GETCURSEL"
+      "trigger": "cb_GETCURSEL\tWinMessages"
     },
     {
       "contents": "cb_GETDROPPEDCONTROLRECT",
-      "trigger": "cb_GETDROPPEDCONTROLRECT"
+      "trigger": "cb_GETDROPPEDCONTROLRECT\tWinMessages"
     },
     {
       "contents": "cb_GETDROPPEDSTATE",
-      "trigger": "cb_GETDROPPEDSTATE"
+      "trigger": "cb_GETDROPPEDSTATE\tWinMessages"
     },
     {
       "contents": "cb_GETDROPPEDWIDTH",
-      "trigger": "cb_GETDROPPEDWIDTH"
+      "trigger": "cb_GETDROPPEDWIDTH\tWinMessages"
     },
     {
       "contents": "cb_GETEDITSEL",
-      "trigger": "cb_GETEDITSEL"
+      "trigger": "cb_GETEDITSEL\tWinMessages"
     },
     {
       "contents": "cb_GETEXTENDEDUI",
-      "trigger": "cb_GETEXTENDEDUI"
+      "trigger": "cb_GETEXTENDEDUI\tWinMessages"
     },
     {
       "contents": "cb_GETHORIZONTALEXTENT",
-      "trigger": "cb_GETHORIZONTALEXTENT"
+      "trigger": "cb_GETHORIZONTALEXTENT\tWinMessages"
     },
     {
       "contents": "cb_GETITEMDATA",
-      "trigger": "cb_GETITEMDATA"
+      "trigger": "cb_GETITEMDATA\tWinMessages"
     },
     {
       "contents": "cb_GETITEMHEIGHT",
-      "trigger": "cb_GETITEMHEIGHT"
+      "trigger": "cb_GETITEMHEIGHT\tWinMessages"
     },
     {
       "contents": "cb_GETLBTEXT",
-      "trigger": "cb_GETLBTEXT"
+      "trigger": "cb_GETLBTEXT\tWinMessages"
     },
     {
       "contents": "cb_GETLBTEXTLEN",
-      "trigger": "cb_GETLBTEXTLEN"
+      "trigger": "cb_GETLBTEXTLEN\tWinMessages"
     },
     {
       "contents": "cb_GETLOCALE",
-      "trigger": "cb_GETLOCALE"
+      "trigger": "cb_GETLOCALE\tWinMessages"
     },
     {
       "contents": "cb_GETTOPINDEX",
-      "trigger": "cb_GETTOPINDEX"
+      "trigger": "cb_GETTOPINDEX\tWinMessages"
     },
     {
       "contents": "cb_INITSTORAGE",
-      "trigger": "cb_INITSTORAGE"
+      "trigger": "cb_INITSTORAGE\tWinMessages"
     },
     {
       "contents": "cb_INSERTSTRING",
-      "trigger": "cb_INSERTSTRING"
+      "trigger": "cb_INSERTSTRING\tWinMessages"
     },
     {
       "contents": "cb_LIMITTEXT",
-      "trigger": "cb_LIMITTEXT"
+      "trigger": "cb_LIMITTEXT\tWinMessages"
     },
     {
       "contents": "cb_MSGMAX",
-      "trigger": "cb_MSGMAX"
+      "trigger": "cb_MSGMAX\tWinMessages"
     },
     {
       "contents": "cb_MULTIPLEADDSTRING",
-      "trigger": "cb_MULTIPLEADDSTRING"
+      "trigger": "cb_MULTIPLEADDSTRING\tWinMessages"
     },
     {
       "contents": "cb_RESETCONTENT",
-      "trigger": "cb_RESETCONTENT"
+      "trigger": "cb_RESETCONTENT\tWinMessages"
     },
     {
       "contents": "cb_SELECTSTRING",
-      "trigger": "cb_SELECTSTRING"
+      "trigger": "cb_SELECTSTRING\tWinMessages"
     },
     {
       "contents": "cb_SETCURSEL",
-      "trigger": "cb_SETCURSEL"
+      "trigger": "cb_SETCURSEL\tWinMessages"
     },
     {
       "contents": "cb_SETDROPPEDWIDTH",
-      "trigger": "cb_SETDROPPEDWIDTH"
+      "trigger": "cb_SETDROPPEDWIDTH\tWinMessages"
     },
     {
       "contents": "cb_SETEDITSEL",
-      "trigger": "cb_SETEDITSEL"
+      "trigger": "cb_SETEDITSEL\tWinMessages"
     },
     {
       "contents": "cb_SETEXTENDEDUI",
-      "trigger": "cb_SETEXTENDEDUI"
+      "trigger": "cb_SETEXTENDEDUI\tWinMessages"
     },
     {
       "contents": "cb_SETHORIZONTALEXTENT",
-      "trigger": "cb_SETHORIZONTALEXTENT"
+      "trigger": "cb_SETHORIZONTALEXTENT\tWinMessages"
     },
     {
       "contents": "cb_SETITEMDATA",
-      "trigger": "cb_SETITEMDATA"
+      "trigger": "cb_SETITEMDATA\tWinMessages"
     },
     {
       "contents": "cb_SETITEMHEIGHT",
-      "trigger": "cb_SETITEMHEIGHT"
+      "trigger": "cb_SETITEMHEIGHT\tWinMessages"
     },
     {
       "contents": "cb_SETLOCALE",
-      "trigger": "cb_SETLOCALE"
+      "trigger": "cb_SETLOCALE\tWinMessages"
     },
     {
       "contents": "cb_SETTOPINDEX",
-      "trigger": "cb_SETTOPINDEX"
+      "trigger": "cb_SETTOPINDEX\tWinMessages"
     },
     {
       "contents": "cb_SHOWDROPDOWN",
-      "trigger": "cb_SHOWDROPDOWN"
+      "trigger": "cb_SHOWDROPDOWN\tWinMessages"
     },
     {
       "contents": "dbt_APPYBEGIN",
-      "trigger": "dbt_APPYBEGIN"
+      "trigger": "dbt_APPYBEGIN\tWinMessages"
     },
     {
       "contents": "dbt_APPYEND",
-      "trigger": "dbt_APPYEND"
+      "trigger": "dbt_APPYEND\tWinMessages"
     },
     {
       "contents": "dbt_CONFIGCHANGECANCELED",
-      "trigger": "dbt_CONFIGCHANGECANCELED"
+      "trigger": "dbt_CONFIGCHANGECANCELED\tWinMessages"
     },
     {
       "contents": "dbt_CONFIGCHANGED",
-      "trigger": "dbt_CONFIGCHANGED"
+      "trigger": "dbt_CONFIGCHANGED\tWinMessages"
     },
     {
       "contents": "dbt_CONFIGMGAPI32",
-      "trigger": "dbt_CONFIGMGAPI32"
+      "trigger": "dbt_CONFIGMGAPI32\tWinMessages"
     },
     {
       "contents": "dbt_CONFIGMGPRIVATE",
-      "trigger": "dbt_CONFIGMGPRIVATE"
+      "trigger": "dbt_CONFIGMGPRIVATE\tWinMessages"
     },
     {
       "contents": "dbt_CUSTOMEVENT",
-      "trigger": "dbt_CUSTOMEVENT"
+      "trigger": "dbt_CUSTOMEVENT\tWinMessages"
     },
     {
       "contents": "dbt_DEVICEARRIVAL",
-      "trigger": "dbt_DEVICEARRIVAL"
+      "trigger": "dbt_DEVICEARRIVAL\tWinMessages"
     },
     {
       "contents": "dbt_DEVICEQUERYREMOVE",
-      "trigger": "dbt_DEVICEQUERYREMOVE"
+      "trigger": "dbt_DEVICEQUERYREMOVE\tWinMessages"
     },
     {
       "contents": "dbt_DEVICEQUERYREMOVEFAILED",
-      "trigger": "dbt_DEVICEQUERYREMOVEFAILED"
+      "trigger": "dbt_DEVICEQUERYREMOVEFAILED\tWinMessages"
     },
     {
       "contents": "dbt_DEVICEREMOVECOMPLETE",
-      "trigger": "dbt_DEVICEREMOVECOMPLETE"
+      "trigger": "dbt_DEVICEREMOVECOMPLETE\tWinMessages"
     },
     {
       "contents": "dbt_DEVICEREMOVEPENDING",
-      "trigger": "dbt_DEVICEREMOVEPENDING"
+      "trigger": "dbt_DEVICEREMOVEPENDING\tWinMessages"
     },
     {
       "contents": "dbt_DEVICETYPESPECIFIC",
-      "trigger": "dbt_DEVICETYPESPECIFIC"
+      "trigger": "dbt_DEVICETYPESPECIFIC\tWinMessages"
     },
     {
       "contents": "dbt_DEVNODES_CHANGED",
-      "trigger": "dbt_DEVNODES_CHANGED"
+      "trigger": "dbt_DEVNODES_CHANGED\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_DEVICEINTERFACE",
-      "trigger": "dbt_DEVTYP_DEVICEINTERFACE"
+      "trigger": "dbt_DEVTYP_DEVICEINTERFACE\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_DEVNODE",
-      "trigger": "dbt_DEVTYP_DEVNODE"
+      "trigger": "dbt_DEVTYP_DEVNODE\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_HANDLE",
-      "trigger": "dbt_DEVTYP_HANDLE"
+      "trigger": "dbt_DEVTYP_HANDLE\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_NET",
-      "trigger": "dbt_DEVTYP_NET"
+      "trigger": "dbt_DEVTYP_NET\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_OEM",
-      "trigger": "dbt_DEVTYP_OEM"
+      "trigger": "dbt_DEVTYP_OEM\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_PORT",
-      "trigger": "dbt_DEVTYP_PORT"
+      "trigger": "dbt_DEVTYP_PORT\tWinMessages"
     },
     {
       "contents": "dbt_DEVTYP_VOLUME",
-      "trigger": "dbt_DEVTYP_VOLUME"
+      "trigger": "dbt_DEVTYP_VOLUME\tWinMessages"
     },
     {
       "contents": "dbt_LOW_DISK_SPACE",
-      "trigger": "dbt_LOW_DISK_SPACE"
+      "trigger": "dbt_LOW_DISK_SPACE\tWinMessages"
     },
     {
       "contents": "dbt_MONITORCHANGE",
-      "trigger": "dbt_MONITORCHANGE"
+      "trigger": "dbt_MONITORCHANGE\tWinMessages"
     },
     {
       "contents": "dbt_NO_DISK_SPACE",
-      "trigger": "dbt_NO_DISK_SPACE"
+      "trigger": "dbt_NO_DISK_SPACE\tWinMessages"
     },
     {
       "contents": "dbt_QUERYCHANGECONFIG",
-      "trigger": "dbt_QUERYCHANGECONFIG"
+      "trigger": "dbt_QUERYCHANGECONFIG\tWinMessages"
     },
     {
       "contents": "dbt_SHELLLOGGEDON",
-      "trigger": "dbt_SHELLLOGGEDON"
+      "trigger": "dbt_SHELLLOGGEDON\tWinMessages"
     },
     {
       "contents": "dbt_USERDEFINED",
-      "trigger": "dbt_USERDEFINED"
+      "trigger": "dbt_USERDEFINED\tWinMessages"
     },
     {
       "contents": "dbt_VOLLOCKLOCKFAILED",
-      "trigger": "dbt_VOLLOCKLOCKFAILED"
+      "trigger": "dbt_VOLLOCKLOCKFAILED\tWinMessages"
     },
     {
       "contents": "dbt_VOLLOCKLOCKRELEASED",
-      "trigger": "dbt_VOLLOCKLOCKRELEASED"
+      "trigger": "dbt_VOLLOCKLOCKRELEASED\tWinMessages"
     },
     {
       "contents": "dbt_VOLLOCKLOCKTAKEN",
-      "trigger": "dbt_VOLLOCKLOCKTAKEN"
+      "trigger": "dbt_VOLLOCKLOCKTAKEN\tWinMessages"
     },
     {
       "contents": "dbt_VOLLOCKQUERYLOCK",
-      "trigger": "dbt_VOLLOCKQUERYLOCK"
+      "trigger": "dbt_VOLLOCKQUERYLOCK\tWinMessages"
     },
     {
       "contents": "dbt_VOLLOCKQUERYUNLOCK",
-      "trigger": "dbt_VOLLOCKQUERYUNLOCK"
+      "trigger": "dbt_VOLLOCKQUERYUNLOCK\tWinMessages"
     },
     {
       "contents": "dbt_VOLLOCKUNLOCKFAILED",
-      "trigger": "dbt_VOLLOCKUNLOCKFAILED"
+      "trigger": "dbt_VOLLOCKUNLOCKFAILED\tWinMessages"
     },
     {
       "contents": "dbt_VPOWERDAPI",
-      "trigger": "dbt_VPOWERDAPI"
+      "trigger": "dbt_VPOWERDAPI\tWinMessages"
     },
     {
       "contents": "dbt_VXDINITCOMPLETE",
-      "trigger": "dbt_VXDINITCOMPLETE"
+      "trigger": "dbt_VXDINITCOMPLETE\tWinMessages"
     },
     {
       "contents": "dm_BITSPERPEL",
-      "trigger": "dm_BITSPERPEL"
+      "trigger": "dm_BITSPERPEL\tWinMessages"
     },
     {
       "contents": "dm_COLLATE",
-      "trigger": "dm_COLLATE"
+      "trigger": "dm_COLLATE\tWinMessages"
     },
     {
       "contents": "dm_COLOR",
-      "trigger": "dm_COLOR"
+      "trigger": "dm_COLOR\tWinMessages"
     },
     {
       "contents": "dm_COPIES",
-      "trigger": "dm_COPIES"
+      "trigger": "dm_COPIES\tWinMessages"
     },
     {
       "contents": "dm_DEFAULTSOURCE",
-      "trigger": "dm_DEFAULTSOURCE"
+      "trigger": "dm_DEFAULTSOURCE\tWinMessages"
     },
     {
       "contents": "dm_DISPLAYFLAGS",
-      "trigger": "dm_DISPLAYFLAGS"
+      "trigger": "dm_DISPLAYFLAGS\tWinMessages"
     },
     {
       "contents": "dm_DISPLAYFREQUENCY",
-      "trigger": "dm_DISPLAYFREQUENCY"
+      "trigger": "dm_DISPLAYFREQUENCY\tWinMessages"
     },
     {
       "contents": "dm_DITHERTYPE",
-      "trigger": "dm_DITHERTYPE"
+      "trigger": "dm_DITHERTYPE\tWinMessages"
     },
     {
       "contents": "dm_DUPLEX",
-      "trigger": "dm_DUPLEX"
+      "trigger": "dm_DUPLEX\tWinMessages"
     },
     {
       "contents": "dm_FIRST",
-      "trigger": "dm_FIRST"
+      "trigger": "dm_FIRST\tWinMessages"
     },
     {
       "contents": "dm_FORMNAME",
-      "trigger": "dm_FORMNAME"
+      "trigger": "dm_FORMNAME\tWinMessages"
     },
     {
       "contents": "dm_GRAYSCALE",
-      "trigger": "dm_GRAYSCALE"
+      "trigger": "dm_GRAYSCALE\tWinMessages"
     },
     {
       "contents": "dm_ICMINTENT",
-      "trigger": "dm_ICMINTENT"
+      "trigger": "dm_ICMINTENT\tWinMessages"
     },
     {
       "contents": "dm_ICMMETHOD",
-      "trigger": "dm_ICMMETHOD"
+      "trigger": "dm_ICMMETHOD\tWinMessages"
     },
     {
       "contents": "dm_INTERLACED",
-      "trigger": "dm_INTERLACED"
+      "trigger": "dm_INTERLACED\tWinMessages"
     },
     {
       "contents": "dm_LOGPIXELS",
-      "trigger": "dm_LOGPIXELS"
+      "trigger": "dm_LOGPIXELS\tWinMessages"
     },
     {
       "contents": "dm_MEDIATYPE",
-      "trigger": "dm_MEDIATYPE"
+      "trigger": "dm_MEDIATYPE\tWinMessages"
     },
     {
       "contents": "dm_NUP",
-      "trigger": "dm_NUP"
+      "trigger": "dm_NUP\tWinMessages"
     },
     {
       "contents": "dm_ORIENTATION",
-      "trigger": "dm_ORIENTATION"
+      "trigger": "dm_ORIENTATION\tWinMessages"
     },
     {
       "contents": "dm_PANNINGHEIGHT",
-      "trigger": "dm_PANNINGHEIGHT"
+      "trigger": "dm_PANNINGHEIGHT\tWinMessages"
     },
     {
       "contents": "dm_PANNINGWIDTH",
-      "trigger": "dm_PANNINGWIDTH"
+      "trigger": "dm_PANNINGWIDTH\tWinMessages"
     },
     {
       "contents": "dm_PAPERLENGTH",
-      "trigger": "dm_PAPERLENGTH"
+      "trigger": "dm_PAPERLENGTH\tWinMessages"
     },
     {
       "contents": "dm_PAPERSIZE",
-      "trigger": "dm_PAPERSIZE"
+      "trigger": "dm_PAPERSIZE\tWinMessages"
     },
     {
       "contents": "dm_PAPERWIDTH",
-      "trigger": "dm_PAPERWIDTH"
+      "trigger": "dm_PAPERWIDTH\tWinMessages"
     },
     {
       "contents": "dm_PELSHEIGHT",
-      "trigger": "dm_PELSHEIGHT"
+      "trigger": "dm_PELSHEIGHT\tWinMessages"
     },
     {
       "contents": "dm_PELSWIDTH",
-      "trigger": "dm_PELSWIDTH"
+      "trigger": "dm_PELSWIDTH\tWinMessages"
     },
     {
       "contents": "dm_POSITION",
-      "trigger": "dm_POSITION"
+      "trigger": "dm_POSITION\tWinMessages"
     },
     {
       "contents": "dm_PRINTQUALITY",
-      "trigger": "dm_PRINTQUALITY"
+      "trigger": "dm_PRINTQUALITY\tWinMessages"
     },
     {
       "contents": "dm_SCALE",
-      "trigger": "dm_SCALE"
+      "trigger": "dm_SCALE\tWinMessages"
     },
     {
       "contents": "dm_SPECVERSION",
-      "trigger": "dm_SPECVERSION"
+      "trigger": "dm_SPECVERSION\tWinMessages"
     },
     {
       "contents": "dm_TTOPTION",
-      "trigger": "dm_TTOPTION"
+      "trigger": "dm_TTOPTION\tWinMessages"
     },
     {
       "contents": "dm_YRESOLUTION",
-      "trigger": "dm_YRESOLUTION"
+      "trigger": "dm_YRESOLUTION\tWinMessages"
     },
     {
       "contents": "em_CANUNDO",
-      "trigger": "em_CANUNDO"
+      "trigger": "em_CANUNDO\tWinMessages"
     },
     {
       "contents": "em_CHARFROMPOS",
-      "trigger": "em_CHARFROMPOS"
+      "trigger": "em_CHARFROMPOS\tWinMessages"
     },
     {
       "contents": "em_EMPTYUNDOBUFFER",
-      "trigger": "em_EMPTYUNDOBUFFER"
+      "trigger": "em_EMPTYUNDOBUFFER\tWinMessages"
     },
     {
       "contents": "em_EXLIMITTEXT",
-      "trigger": "em_EXLIMITTEXT"
+      "trigger": "em_EXLIMITTEXT\tWinMessages"
     },
     {
       "contents": "em_FMTLINES",
-      "trigger": "em_FMTLINES"
+      "trigger": "em_FMTLINES\tWinMessages"
     },
     {
       "contents": "em_GETFIRSTVISIBLELINE",
-      "trigger": "em_GETFIRSTVISIBLELINE"
+      "trigger": "em_GETFIRSTVISIBLELINE\tWinMessages"
     },
     {
       "contents": "em_GETHANDLE",
-      "trigger": "em_GETHANDLE"
+      "trigger": "em_GETHANDLE\tWinMessages"
     },
     {
       "contents": "em_GETIMESTATUS",
-      "trigger": "em_GETIMESTATUS"
+      "trigger": "em_GETIMESTATUS\tWinMessages"
     },
     {
       "contents": "em_GETLIMITTEXT",
-      "trigger": "em_GETLIMITTEXT"
+      "trigger": "em_GETLIMITTEXT\tWinMessages"
     },
     {
       "contents": "em_GETLINE",
-      "trigger": "em_GETLINE"
+      "trigger": "em_GETLINE\tWinMessages"
     },
     {
       "contents": "em_GETLINECOUNT",
-      "trigger": "em_GETLINECOUNT"
+      "trigger": "em_GETLINECOUNT\tWinMessages"
     },
     {
       "contents": "em_GETMARGINS",
-      "trigger": "em_GETMARGINS"
+      "trigger": "em_GETMARGINS\tWinMessages"
     },
     {
       "contents": "em_GETMODIFY",
-      "trigger": "em_GETMODIFY"
+      "trigger": "em_GETMODIFY\tWinMessages"
     },
     {
       "contents": "em_GETPASSWORDCHAR",
-      "trigger": "em_GETPASSWORDCHAR"
+      "trigger": "em_GETPASSWORDCHAR\tWinMessages"
     },
     {
       "contents": "em_GETRECT",
-      "trigger": "em_GETRECT"
+      "trigger": "em_GETRECT\tWinMessages"
     },
     {
       "contents": "em_GETSEL",
-      "trigger": "em_GETSEL"
+      "trigger": "em_GETSEL\tWinMessages"
     },
     {
       "contents": "em_GETTHUMB",
-      "trigger": "em_GETTHUMB"
+      "trigger": "em_GETTHUMB\tWinMessages"
     },
     {
       "contents": "em_GETWORDBREAKPROC",
-      "trigger": "em_GETWORDBREAKPROC"
+      "trigger": "em_GETWORDBREAKPROC\tWinMessages"
     },
     {
       "contents": "em_LIMITTEXT",
-      "trigger": "em_LIMITTEXT"
+      "trigger": "em_LIMITTEXT\tWinMessages"
     },
     {
       "contents": "em_LINEFROMCHAR",
-      "trigger": "em_LINEFROMCHAR"
+      "trigger": "em_LINEFROMCHAR\tWinMessages"
     },
     {
       "contents": "em_LINEINDEX",
-      "trigger": "em_LINEINDEX"
+      "trigger": "em_LINEINDEX\tWinMessages"
     },
     {
       "contents": "em_LINELENGTH",
-      "trigger": "em_LINELENGTH"
+      "trigger": "em_LINELENGTH\tWinMessages"
     },
     {
       "contents": "em_LINESCROLL",
-      "trigger": "em_LINESCROLL"
+      "trigger": "em_LINESCROLL\tWinMessages"
     },
     {
       "contents": "em_POSFROMCHAR",
-      "trigger": "em_POSFROMCHAR"
+      "trigger": "em_POSFROMCHAR\tWinMessages"
     },
     {
       "contents": "em_REPLACESEL",
-      "trigger": "em_REPLACESEL"
+      "trigger": "em_REPLACESEL\tWinMessages"
     },
     {
       "contents": "em_SCROLL",
-      "trigger": "em_SCROLL"
+      "trigger": "em_SCROLL\tWinMessages"
     },
     {
       "contents": "em_SCROLLCARET",
-      "trigger": "em_SCROLLCARET"
+      "trigger": "em_SCROLLCARET\tWinMessages"
     },
     {
       "contents": "em_SETHANDLE",
-      "trigger": "em_SETHANDLE"
+      "trigger": "em_SETHANDLE\tWinMessages"
     },
     {
       "contents": "em_SETIMESTATUS",
-      "trigger": "em_SETIMESTATUS"
+      "trigger": "em_SETIMESTATUS\tWinMessages"
     },
     {
       "contents": "em_SETLIMITTEXT",
-      "trigger": "em_SETLIMITTEXT"
+      "trigger": "em_SETLIMITTEXT\tWinMessages"
     },
     {
       "contents": "em_SETMARGINS",
-      "trigger": "em_SETMARGINS"
+      "trigger": "em_SETMARGINS\tWinMessages"
     },
     {
       "contents": "em_SETMODIFY",
-      "trigger": "em_SETMODIFY"
+      "trigger": "em_SETMODIFY\tWinMessages"
     },
     {
       "contents": "em_SETPASSWORDCHAR",
-      "trigger": "em_SETPASSWORDCHAR"
+      "trigger": "em_SETPASSWORDCHAR\tWinMessages"
     },
     {
       "contents": "em_SETREADONLY",
-      "trigger": "em_SETREADONLY"
+      "trigger": "em_SETREADONLY\tWinMessages"
     },
     {
       "contents": "em_SETRECT",
-      "trigger": "em_SETRECT"
+      "trigger": "em_SETRECT\tWinMessages"
     },
     {
       "contents": "em_SETRECTNP",
-      "trigger": "em_SETRECTNP"
+      "trigger": "em_SETRECTNP\tWinMessages"
     },
     {
       "contents": "em_SETSEL",
-      "trigger": "em_SETSEL"
+      "trigger": "em_SETSEL\tWinMessages"
     },
     {
       "contents": "em_SETTABSTOPS",
-      "trigger": "em_SETTABSTOPS"
+      "trigger": "em_SETTABSTOPS\tWinMessages"
     },
     {
       "contents": "em_SETWORDBREAKPROC",
-      "trigger": "em_SETWORDBREAKPROC"
+      "trigger": "em_SETWORDBREAKPROC\tWinMessages"
     },
     {
       "contents": "em_UNDO",
-      "trigger": "em_UNDO"
+      "trigger": "em_UNDO\tWinMessages"
     },
     {
       "contents": "hwnd_BROADCAST",
-      "trigger": "hwnd_BROADCAST"
+      "trigger": "hwnd_BROADCAST\tWinMessages"
     },
     {
       "contents": "lb_ADDFILE",
-      "trigger": "lb_ADDFILE"
+      "trigger": "lb_ADDFILE\tWinMessages"
     },
     {
       "contents": "lb_ADDSTRING",
-      "trigger": "lb_ADDSTRING"
+      "trigger": "lb_ADDSTRING\tWinMessages"
     },
     {
       "contents": "lb_DELETESTRING",
-      "trigger": "lb_DELETESTRING"
+      "trigger": "lb_DELETESTRING\tWinMessages"
     },
     {
       "contents": "lb_DIR",
-      "trigger": "lb_DIR"
+      "trigger": "lb_DIR\tWinMessages"
     },
     {
       "contents": "lb_ERR",
-      "trigger": "lb_ERR"
+      "trigger": "lb_ERR\tWinMessages"
     },
     {
       "contents": "lb_FINDSTRING",
-      "trigger": "lb_FINDSTRING"
+      "trigger": "lb_FINDSTRING\tWinMessages"
     },
     {
       "contents": "lb_FINDSTRINGEXACT",
-      "trigger": "lb_FINDSTRINGEXACT"
+      "trigger": "lb_FINDSTRINGEXACT\tWinMessages"
     },
     {
       "contents": "lb_GETANCHORINDEX",
-      "trigger": "lb_GETANCHORINDEX"
+      "trigger": "lb_GETANCHORINDEX\tWinMessages"
     },
     {
       "contents": "lb_GETCARETINDEX",
-      "trigger": "lb_GETCARETINDEX"
+      "trigger": "lb_GETCARETINDEX\tWinMessages"
     },
     {
       "contents": "lb_GETCOUNT",
-      "trigger": "lb_GETCOUNT"
+      "trigger": "lb_GETCOUNT\tWinMessages"
     },
     {
       "contents": "lb_GETCURSEL",
-      "trigger": "lb_GETCURSEL"
+      "trigger": "lb_GETCURSEL\tWinMessages"
     },
     {
       "contents": "lb_GETHORIZONTALEXTENT",
-      "trigger": "lb_GETHORIZONTALEXTENT"
+      "trigger": "lb_GETHORIZONTALEXTENT\tWinMessages"
     },
     {
       "contents": "lb_GETITEMDATA",
-      "trigger": "lb_GETITEMDATA"
+      "trigger": "lb_GETITEMDATA\tWinMessages"
     },
     {
       "contents": "lb_GETITEMHEIGHT",
-      "trigger": "lb_GETITEMHEIGHT"
+      "trigger": "lb_GETITEMHEIGHT\tWinMessages"
     },
     {
       "contents": "lb_GETITEMRECT",
-      "trigger": "lb_GETITEMRECT"
+      "trigger": "lb_GETITEMRECT\tWinMessages"
     },
     {
       "contents": "lb_GETLOCALE",
-      "trigger": "lb_GETLOCALE"
+      "trigger": "lb_GETLOCALE\tWinMessages"
     },
     {
       "contents": "lb_GETSEL",
-      "trigger": "lb_GETSEL"
+      "trigger": "lb_GETSEL\tWinMessages"
     },
     {
       "contents": "lb_GETSELCOUNT",
-      "trigger": "lb_GETSELCOUNT"
+      "trigger": "lb_GETSELCOUNT\tWinMessages"
     },
     {
       "contents": "lb_GETSELITEMS",
-      "trigger": "lb_GETSELITEMS"
+      "trigger": "lb_GETSELITEMS\tWinMessages"
     },
     {
       "contents": "lb_GETTEXT",
-      "trigger": "lb_GETTEXT"
+      "trigger": "lb_GETTEXT\tWinMessages"
     },
     {
       "contents": "lb_GETTEXTLEN",
-      "trigger": "lb_GETTEXTLEN"
+      "trigger": "lb_GETTEXTLEN\tWinMessages"
     },
     {
       "contents": "lb_GETTOPINDEX",
-      "trigger": "lb_GETTOPINDEX"
+      "trigger": "lb_GETTOPINDEX\tWinMessages"
     },
     {
       "contents": "lb_INITSTORAGE",
-      "trigger": "lb_INITSTORAGE"
+      "trigger": "lb_INITSTORAGE\tWinMessages"
     },
     {
       "contents": "lb_INSERTSTRING",
-      "trigger": "lb_INSERTSTRING"
+      "trigger": "lb_INSERTSTRING\tWinMessages"
     },
     {
       "contents": "lb_ITEMFROMPOINT",
-      "trigger": "lb_ITEMFROMPOINT"
+      "trigger": "lb_ITEMFROMPOINT\tWinMessages"
     },
     {
       "contents": "lb_MSGMAX",
-      "trigger": "lb_MSGMAX"
+      "trigger": "lb_MSGMAX\tWinMessages"
     },
     {
       "contents": "lb_MULTIPLEADDSTRING",
-      "trigger": "lb_MULTIPLEADDSTRING"
+      "trigger": "lb_MULTIPLEADDSTRING\tWinMessages"
     },
     {
       "contents": "lb_RESETCONTENT",
-      "trigger": "lb_RESETCONTENT"
+      "trigger": "lb_RESETCONTENT\tWinMessages"
     },
     {
       "contents": "lb_SELECTSTRING",
-      "trigger": "lb_SELECTSTRING"
+      "trigger": "lb_SELECTSTRING\tWinMessages"
     },
     {
       "contents": "lb_SELITEMRANGE",
-      "trigger": "lb_SELITEMRANGE"
+      "trigger": "lb_SELITEMRANGE\tWinMessages"
     },
     {
       "contents": "lb_SELITEMRANGEEX",
-      "trigger": "lb_SELITEMRANGEEX"
+      "trigger": "lb_SELITEMRANGEEX\tWinMessages"
     },
     {
       "contents": "lb_SETANCHORINDEX",
-      "trigger": "lb_SETANCHORINDEX"
+      "trigger": "lb_SETANCHORINDEX\tWinMessages"
     },
     {
       "contents": "lb_SETCARETINDEX",
-      "trigger": "lb_SETCARETINDEX"
+      "trigger": "lb_SETCARETINDEX\tWinMessages"
     },
     {
       "contents": "lb_SETCOLUMNWIDTH",
-      "trigger": "lb_SETCOLUMNWIDTH"
+      "trigger": "lb_SETCOLUMNWIDTH\tWinMessages"
     },
     {
       "contents": "lb_SETCOUNT",
-      "trigger": "lb_SETCOUNT"
+      "trigger": "lb_SETCOUNT\tWinMessages"
     },
     {
       "contents": "lb_SETCURSEL",
-      "trigger": "lb_SETCURSEL"
+      "trigger": "lb_SETCURSEL\tWinMessages"
     },
     {
       "contents": "lb_SETHORIZONTALEXTENT",
-      "trigger": "lb_SETHORIZONTALEXTENT"
+      "trigger": "lb_SETHORIZONTALEXTENT\tWinMessages"
     },
     {
       "contents": "lb_SETITEMDATA",
-      "trigger": "lb_SETITEMDATA"
+      "trigger": "lb_SETITEMDATA\tWinMessages"
     },
     {
       "contents": "lb_SETITEMHEIGHT",
-      "trigger": "lb_SETITEMHEIGHT"
+      "trigger": "lb_SETITEMHEIGHT\tWinMessages"
     },
     {
       "contents": "lb_SETLOCALE",
-      "trigger": "lb_SETLOCALE"
+      "trigger": "lb_SETLOCALE\tWinMessages"
     },
     {
       "contents": "lb_SETSEL",
-      "trigger": "lb_SETSEL"
+      "trigger": "lb_SETSEL\tWinMessages"
     },
     {
       "contents": "lb_SETTABSTOPS",
-      "trigger": "lb_SETTABSTOPS"
+      "trigger": "lb_SETTABSTOPS\tWinMessages"
     },
     {
       "contents": "lb_SETTOPINDEX",
-      "trigger": "lb_SETTOPINDEX"
+      "trigger": "lb_SETTOPINDEX\tWinMessages"
     },
     {
       "contents": "lvm_FIRST",
-      "trigger": "lvm_FIRST"
+      "trigger": "lvm_FIRST\tWinMessages"
     },
     {
       "contents": "pbm_DELTAPOS",
-      "trigger": "pbm_DELTAPOS"
+      "trigger": "pbm_DELTAPOS\tWinMessages"
     },
     {
       "contents": "pbm_GETPOS",
-      "trigger": "pbm_GETPOS"
+      "trigger": "pbm_GETPOS\tWinMessages"
     },
     {
       "contents": "pbm_SETMARQUEE",
-      "trigger": "pbm_SETMARQUEE"
+      "trigger": "pbm_SETMARQUEE\tWinMessages"
     },
     {
       "contents": "pbm_SETPOS",
-      "trigger": "pbm_SETPOS"
+      "trigger": "pbm_SETPOS\tWinMessages"
     },
     {
       "contents": "pbm_SETRANGE",
-      "trigger": "pbm_SETRANGE"
+      "trigger": "pbm_SETRANGE\tWinMessages"
     },
     {
       "contents": "pbm_SETSTEP",
-      "trigger": "pbm_SETSTEP"
+      "trigger": "pbm_SETSTEP\tWinMessages"
     },
     {
       "contents": "pbm_STEPIT",
-      "trigger": "pbm_STEPIT"
+      "trigger": "pbm_STEPIT\tWinMessages"
     },
     {
       "contents": "sb_CONST_ALPHA",
-      "trigger": "sb_CONST_ALPHA"
+      "trigger": "sb_CONST_ALPHA\tWinMessages"
     },
     {
       "contents": "sb_GRAD_RECT",
-      "trigger": "sb_GRAD_RECT"
+      "trigger": "sb_GRAD_RECT\tWinMessages"
     },
     {
       "contents": "sb_GRAD_TRI",
-      "trigger": "sb_GRAD_TRI"
+      "trigger": "sb_GRAD_TRI\tWinMessages"
     },
     {
       "contents": "sb_NONE",
-      "trigger": "sb_NONE"
+      "trigger": "sb_NONE\tWinMessages"
     },
     {
       "contents": "sb_PIXEL_ALPHA",
-      "trigger": "sb_PIXEL_ALPHA"
+      "trigger": "sb_PIXEL_ALPHA\tWinMessages"
     },
     {
       "contents": "sb_PREMULT_ALPHA",
-      "trigger": "sb_PREMULT_ALPHA"
+      "trigger": "sb_PREMULT_ALPHA\tWinMessages"
     },
     {
       "contents": "sb_SIMPLEID",
-      "trigger": "sb_SIMPLEID"
+      "trigger": "sb_SIMPLEID\tWinMessages"
     },
     {
       "contents": "sbm_ENABLE_ARROWS",
-      "trigger": "sbm_ENABLE_ARROWS"
+      "trigger": "sbm_ENABLE_ARROWS\tWinMessages"
     },
     {
       "contents": "sbm_GETPOS",
-      "trigger": "sbm_GETPOS"
+      "trigger": "sbm_GETPOS\tWinMessages"
     },
     {
       "contents": "sbm_GETRANGE",
-      "trigger": "sbm_GETRANGE"
+      "trigger": "sbm_GETRANGE\tWinMessages"
     },
     {
       "contents": "sbm_GETSCROLLINFO",
-      "trigger": "sbm_GETSCROLLINFO"
+      "trigger": "sbm_GETSCROLLINFO\tWinMessages"
     },
     {
       "contents": "sbm_SETPOS",
-      "trigger": "sbm_SETPOS"
+      "trigger": "sbm_SETPOS\tWinMessages"
     },
     {
       "contents": "sbm_SETRANGE",
-      "trigger": "sbm_SETRANGE"
+      "trigger": "sbm_SETRANGE\tWinMessages"
     },
     {
       "contents": "sbm_SETRANGEREDRAW",
-      "trigger": "sbm_SETRANGEREDRAW"
+      "trigger": "sbm_SETRANGEREDRAW\tWinMessages"
     },
     {
       "contents": "sbm_SETSCROLLINFO",
-      "trigger": "sbm_SETSCROLLINFO"
+      "trigger": "sbm_SETSCROLLINFO\tWinMessages"
     },
     {
       "contents": "stm_GETICON",
-      "trigger": "stm_GETICON"
+      "trigger": "stm_GETICON\tWinMessages"
     },
     {
       "contents": "stm_GETIMAGE",
-      "trigger": "stm_GETIMAGE"
+      "trigger": "stm_GETIMAGE\tWinMessages"
     },
     {
       "contents": "stm_MSGMAX",
-      "trigger": "stm_MSGMAX"
+      "trigger": "stm_MSGMAX\tWinMessages"
     },
     {
       "contents": "stm_ONLY_THIS_INTERFACE",
-      "trigger": "stm_ONLY_THIS_INTERFACE"
+      "trigger": "stm_ONLY_THIS_INTERFACE\tWinMessages"
     },
     {
       "contents": "stm_ONLY_THIS_NAME",
-      "trigger": "stm_ONLY_THIS_NAME"
+      "trigger": "stm_ONLY_THIS_NAME\tWinMessages"
     },
     {
       "contents": "stm_ONLY_THIS_PROTOCOL",
-      "trigger": "stm_ONLY_THIS_PROTOCOL"
+      "trigger": "stm_ONLY_THIS_PROTOCOL\tWinMessages"
     },
     {
       "contents": "stm_ONLY_THIS_TYPE",
-      "trigger": "stm_ONLY_THIS_TYPE"
+      "trigger": "stm_ONLY_THIS_TYPE\tWinMessages"
     },
     {
       "contents": "stm_SETICON",
-      "trigger": "stm_SETICON"
+      "trigger": "stm_SETICON\tWinMessages"
     },
     {
       "contents": "stm_SETIMAGE",
-      "trigger": "stm_SETIMAGE"
+      "trigger": "stm_SETIMAGE\tWinMessages"
     },
     {
       "contents": "sw_FORCEMINIMIZE",
-      "trigger": "sw_FORCEMINIMIZE"
+      "trigger": "sw_FORCEMINIMIZE\tWinMessages"
     },
     {
       "contents": "sw_HIDE",
-      "trigger": "sw_HIDE"
+      "trigger": "sw_HIDE\tWinMessages"
     },
     {
       "contents": "sw_MAX",
-      "trigger": "sw_MAX"
+      "trigger": "sw_MAX\tWinMessages"
     },
     {
       "contents": "sw_MAXIMIZE",
-      "trigger": "sw_MAXIMIZE"
+      "trigger": "sw_MAXIMIZE\tWinMessages"
     },
     {
       "contents": "sw_MINIMIZE",
-      "trigger": "sw_MINIMIZE"
+      "trigger": "sw_MINIMIZE\tWinMessages"
     },
     {
       "contents": "sw_NORMAL",
-      "trigger": "sw_NORMAL"
+      "trigger": "sw_NORMAL\tWinMessages"
     },
     {
       "contents": "sw_RESTORE",
-      "trigger": "sw_RESTORE"
+      "trigger": "sw_RESTORE\tWinMessages"
     },
     {
       "contents": "sw_SHOW",
-      "trigger": "sw_SHOW"
+      "trigger": "sw_SHOW\tWinMessages"
     },
     {
       "contents": "sw_SHOWDEFAULT",
-      "trigger": "sw_SHOWDEFAULT"
+      "trigger": "sw_SHOWDEFAULT\tWinMessages"
     },
     {
       "contents": "sw_SHOWMAXIMIZED",
-      "trigger": "sw_SHOWMAXIMIZED"
+      "trigger": "sw_SHOWMAXIMIZED\tWinMessages"
     },
     {
       "contents": "sw_SHOWMINIMIZED",
-      "trigger": "sw_SHOWMINIMIZED"
+      "trigger": "sw_SHOWMINIMIZED\tWinMessages"
     },
     {
       "contents": "sw_SHOWMINNOACTIVE",
-      "trigger": "sw_SHOWMINNOACTIVE"
+      "trigger": "sw_SHOWMINNOACTIVE\tWinMessages"
     },
     {
       "contents": "sw_SHOWNA",
-      "trigger": "sw_SHOWNA"
+      "trigger": "sw_SHOWNA\tWinMessages"
     },
     {
       "contents": "sw_SHOWNOACTIVATE",
-      "trigger": "sw_SHOWNOACTIVATE"
+      "trigger": "sw_SHOWNOACTIVATE\tWinMessages"
     },
     {
       "contents": "sw_SHOWNORMAL",
-      "trigger": "sw_SHOWNORMAL"
+      "trigger": "sw_SHOWNORMAL\tWinMessages"
     },
     {
       "contents": "tcm_FIRST",
-      "trigger": "tcm_FIRST"
+      "trigger": "tcm_FIRST\tWinMessages"
     },
     {
       "contents": "wm_ACTIVATE",
-      "trigger": "wm_ACTIVATE"
+      "trigger": "wm_ACTIVATE\tWinMessages"
     },
     {
       "contents": "wm_ACTIVATEAPP",
-      "trigger": "wm_ACTIVATEAPP"
+      "trigger": "wm_ACTIVATEAPP\tWinMessages"
     },
     {
       "contents": "wm_AFXFIRST",
-      "trigger": "wm_AFXFIRST"
+      "trigger": "wm_AFXFIRST\tWinMessages"
     },
     {
       "contents": "wm_AFXLAST",
-      "trigger": "wm_AFXLAST"
+      "trigger": "wm_AFXLAST\tWinMessages"
     },
     {
       "contents": "wm_APP",
-      "trigger": "wm_APP"
+      "trigger": "wm_APP\tWinMessages"
     },
     {
       "contents": "wm_APPCOMMAND",
-      "trigger": "wm_APPCOMMAND"
+      "trigger": "wm_APPCOMMAND\tWinMessages"
     },
     {
       "contents": "wm_ASKCBFORMATNAME",
-      "trigger": "wm_ASKCBFORMATNAME"
+      "trigger": "wm_ASKCBFORMATNAME\tWinMessages"
     },
     {
       "contents": "wm_CANCELJOURNAL",
-      "trigger": "wm_CANCELJOURNAL"
+      "trigger": "wm_CANCELJOURNAL\tWinMessages"
     },
     {
       "contents": "wm_CANCELMODE",
-      "trigger": "wm_CANCELMODE"
+      "trigger": "wm_CANCELMODE\tWinMessages"
     },
     {
       "contents": "wm_CAPTURECHANGED",
-      "trigger": "wm_CAPTURECHANGED"
+      "trigger": "wm_CAPTURECHANGED\tWinMessages"
     },
     {
       "contents": "wm_CHANGECBCHAIN",
-      "trigger": "wm_CHANGECBCHAIN"
+      "trigger": "wm_CHANGECBCHAIN\tWinMessages"
     },
     {
       "contents": "wm_CHANGEUISTATE",
-      "trigger": "wm_CHANGEUISTATE"
+      "trigger": "wm_CHANGEUISTATE\tWinMessages"
     },
     {
       "contents": "wm_CHAR",
-      "trigger": "wm_CHAR"
+      "trigger": "wm_CHAR\tWinMessages"
     },
     {
       "contents": "wm_CHARTOITEM",
-      "trigger": "wm_CHARTOITEM"
+      "trigger": "wm_CHARTOITEM\tWinMessages"
     },
     {
       "contents": "wm_CHILDACTIVATE",
-      "trigger": "wm_CHILDACTIVATE"
+      "trigger": "wm_CHILDACTIVATE\tWinMessages"
     },
     {
       "contents": "wm_CLEAR",
-      "trigger": "wm_CLEAR"
+      "trigger": "wm_CLEAR\tWinMessages"
     },
     {
       "contents": "wm_CLOSE",
-      "trigger": "wm_CLOSE"
+      "trigger": "wm_CLOSE\tWinMessages"
     },
     {
       "contents": "wm_COMMAND",
-      "trigger": "wm_COMMAND"
+      "trigger": "wm_COMMAND\tWinMessages"
     },
     {
       "contents": "wm_COMMNOTIFY",
-      "trigger": "wm_COMMNOTIFY"
+      "trigger": "wm_COMMNOTIFY\tWinMessages"
     },
     {
       "contents": "wm_COMPACTING",
-      "trigger": "wm_COMPACTING"
+      "trigger": "wm_COMPACTING\tWinMessages"
     },
     {
       "contents": "wm_COMPAREITEM",
-      "trigger": "wm_COMPAREITEM"
+      "trigger": "wm_COMPAREITEM\tWinMessages"
     },
     {
       "contents": "wm_CONTEXTMENU",
-      "trigger": "wm_CONTEXTMENU"
+      "trigger": "wm_CONTEXTMENU\tWinMessages"
     },
     {
       "contents": "wm_CONVERTREQUESTEX",
-      "trigger": "wm_CONVERTREQUESTEX"
+      "trigger": "wm_CONVERTREQUESTEX\tWinMessages"
     },
     {
       "contents": "wm_COPY",
-      "trigger": "wm_COPY"
+      "trigger": "wm_COPY\tWinMessages"
     },
     {
       "contents": "wm_COPYDATA",
-      "trigger": "wm_COPYDATA"
+      "trigger": "wm_COPYDATA\tWinMessages"
     },
     {
       "contents": "wm_CREATE",
-      "trigger": "wm_CREATE"
+      "trigger": "wm_CREATE\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLOR",
-      "trigger": "wm_CTLCOLOR"
+      "trigger": "wm_CTLCOLOR\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLORBTN",
-      "trigger": "wm_CTLCOLORBTN"
+      "trigger": "wm_CTLCOLORBTN\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLORDLG",
-      "trigger": "wm_CTLCOLORDLG"
+      "trigger": "wm_CTLCOLORDLG\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLOREDIT",
-      "trigger": "wm_CTLCOLOREDIT"
+      "trigger": "wm_CTLCOLOREDIT\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLORLISTBOX",
-      "trigger": "wm_CTLCOLORLISTBOX"
+      "trigger": "wm_CTLCOLORLISTBOX\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLORMSGBOX",
-      "trigger": "wm_CTLCOLORMSGBOX"
+      "trigger": "wm_CTLCOLORMSGBOX\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLORSCROLLBAR",
-      "trigger": "wm_CTLCOLORSCROLLBAR"
+      "trigger": "wm_CTLCOLORSCROLLBAR\tWinMessages"
     },
     {
       "contents": "wm_CTLCOLORSTATIC",
-      "trigger": "wm_CTLCOLORSTATIC"
+      "trigger": "wm_CTLCOLORSTATIC\tWinMessages"
     },
     {
       "contents": "wm_CUT",
-      "trigger": "wm_CUT"
+      "trigger": "wm_CUT\tWinMessages"
     },
     {
       "contents": "wm_DDE_FIRST",
-      "trigger": "wm_DDE_FIRST"
+      "trigger": "wm_DDE_FIRST\tWinMessages"
     },
     {
       "contents": "wm_DEADCHAR",
-      "trigger": "wm_DEADCHAR"
+      "trigger": "wm_DEADCHAR\tWinMessages"
     },
     {
       "contents": "wm_DELETEITEM",
-      "trigger": "wm_DELETEITEM"
+      "trigger": "wm_DELETEITEM\tWinMessages"
     },
     {
       "contents": "wm_DESTROY",
-      "trigger": "wm_DESTROY"
+      "trigger": "wm_DESTROY\tWinMessages"
     },
     {
       "contents": "wm_DESTROYCLIPBOARD",
-      "trigger": "wm_DESTROYCLIPBOARD"
+      "trigger": "wm_DESTROYCLIPBOARD\tWinMessages"
     },
     {
       "contents": "wm_DEVICECHANGE",
-      "trigger": "wm_DEVICECHANGE"
+      "trigger": "wm_DEVICECHANGE\tWinMessages"
     },
     {
       "contents": "wm_DEVMODECHANGE",
-      "trigger": "wm_DEVMODECHANGE"
+      "trigger": "wm_DEVMODECHANGE\tWinMessages"
     },
     {
       "contents": "wm_DISPLAYCHANGE",
-      "trigger": "wm_DISPLAYCHANGE"
+      "trigger": "wm_DISPLAYCHANGE\tWinMessages"
     },
     {
       "contents": "wm_DRAWCLIPBOARD",
-      "trigger": "wm_DRAWCLIPBOARD"
+      "trigger": "wm_DRAWCLIPBOARD\tWinMessages"
     },
     {
       "contents": "wm_DRAWITEM",
-      "trigger": "wm_DRAWITEM"
+      "trigger": "wm_DRAWITEM\tWinMessages"
     },
     {
       "contents": "wm_DROPFILES",
-      "trigger": "wm_DROPFILES"
+      "trigger": "wm_DROPFILES\tWinMessages"
     },
     {
       "contents": "wm_ENABLE",
-      "trigger": "wm_ENABLE"
+      "trigger": "wm_ENABLE\tWinMessages"
     },
     {
       "contents": "wm_ENDSESSION",
-      "trigger": "wm_ENDSESSION"
+      "trigger": "wm_ENDSESSION\tWinMessages"
     },
     {
       "contents": "wm_ENTERIDLE",
-      "trigger": "wm_ENTERIDLE"
+      "trigger": "wm_ENTERIDLE\tWinMessages"
     },
     {
       "contents": "wm_ENTERMENULOOP",
-      "trigger": "wm_ENTERMENULOOP"
+      "trigger": "wm_ENTERMENULOOP\tWinMessages"
     },
     {
       "contents": "wm_ENTERSIZEMOVE",
-      "trigger": "wm_ENTERSIZEMOVE"
+      "trigger": "wm_ENTERSIZEMOVE\tWinMessages"
     },
     {
       "contents": "wm_ERASEBKGND",
-      "trigger": "wm_ERASEBKGND"
+      "trigger": "wm_ERASEBKGND\tWinMessages"
     },
     {
       "contents": "wm_EXITMENULOOP",
-      "trigger": "wm_EXITMENULOOP"
+      "trigger": "wm_EXITMENULOOP\tWinMessages"
     },
     {
       "contents": "wm_EXITSIZEMOVE",
-      "trigger": "wm_EXITSIZEMOVE"
+      "trigger": "wm_EXITSIZEMOVE\tWinMessages"
     },
     {
       "contents": "wm_FONTCHANGE",
-      "trigger": "wm_FONTCHANGE"
+      "trigger": "wm_FONTCHANGE\tWinMessages"
     },
     {
       "contents": "wm_GETDLGCODE",
-      "trigger": "wm_GETDLGCODE"
+      "trigger": "wm_GETDLGCODE\tWinMessages"
     },
     {
       "contents": "wm_GETFONT",
-      "trigger": "wm_GETFONT"
+      "trigger": "wm_GETFONT\tWinMessages"
     },
     {
       "contents": "wm_GETHOTKEY",
-      "trigger": "wm_GETHOTKEY"
+      "trigger": "wm_GETHOTKEY\tWinMessages"
     },
     {
       "contents": "wm_GETICON",
-      "trigger": "wm_GETICON"
+      "trigger": "wm_GETICON\tWinMessages"
     },
     {
       "contents": "wm_GETMINMAXINFO",
-      "trigger": "wm_GETMINMAXINFO"
+      "trigger": "wm_GETMINMAXINFO\tWinMessages"
     },
     {
       "contents": "wm_GETOBJECT",
-      "trigger": "wm_GETOBJECT"
+      "trigger": "wm_GETOBJECT\tWinMessages"
     },
     {
       "contents": "wm_GETTEXT",
-      "trigger": "wm_GETTEXT"
+      "trigger": "wm_GETTEXT\tWinMessages"
     },
     {
       "contents": "wm_GETTEXTLENGTH",
-      "trigger": "wm_GETTEXTLENGTH"
+      "trigger": "wm_GETTEXTLENGTH\tWinMessages"
     },
     {
       "contents": "wm_HANDHELDFIRST",
-      "trigger": "wm_HANDHELDFIRST"
+      "trigger": "wm_HANDHELDFIRST\tWinMessages"
     },
     {
       "contents": "wm_HANDHELDLAST",
-      "trigger": "wm_HANDHELDLAST"
+      "trigger": "wm_HANDHELDLAST\tWinMessages"
     },
     {
       "contents": "wm_HELP",
-      "trigger": "wm_HELP"
+      "trigger": "wm_HELP\tWinMessages"
     },
     {
       "contents": "wm_HOTKEY",
-      "trigger": "wm_HOTKEY"
+      "trigger": "wm_HOTKEY\tWinMessages"
     },
     {
       "contents": "wm_HSCROLL",
-      "trigger": "wm_HSCROLL"
+      "trigger": "wm_HSCROLL\tWinMessages"
     },
     {
       "contents": "wm_HSCROLLCLIPBOARD",
-      "trigger": "wm_HSCROLLCLIPBOARD"
+      "trigger": "wm_HSCROLLCLIPBOARD\tWinMessages"
     },
     {
       "contents": "wm_ICONERASEBKGND",
-      "trigger": "wm_ICONERASEBKGND"
+      "trigger": "wm_ICONERASEBKGND\tWinMessages"
     },
     {
       "contents": "wm_IME_CHAR",
-      "trigger": "wm_IME_CHAR"
+      "trigger": "wm_IME_CHAR\tWinMessages"
     },
     {
       "contents": "wm_IME_COMPOSITION",
-      "trigger": "wm_IME_COMPOSITION"
+      "trigger": "wm_IME_COMPOSITION\tWinMessages"
     },
     {
       "contents": "wm_IME_COMPOSITIONFULL",
-      "trigger": "wm_IME_COMPOSITIONFULL"
+      "trigger": "wm_IME_COMPOSITIONFULL\tWinMessages"
     },
     {
       "contents": "wm_IME_CONTROL",
-      "trigger": "wm_IME_CONTROL"
+      "trigger": "wm_IME_CONTROL\tWinMessages"
     },
     {
       "contents": "wm_IME_ENDCOMPOSITION",
-      "trigger": "wm_IME_ENDCOMPOSITION"
+      "trigger": "wm_IME_ENDCOMPOSITION\tWinMessages"
     },
     {
       "contents": "wm_IME_KEYDOWN",
-      "trigger": "wm_IME_KEYDOWN"
+      "trigger": "wm_IME_KEYDOWN\tWinMessages"
     },
     {
       "contents": "wm_IME_KEYLAST",
-      "trigger": "wm_IME_KEYLAST"
+      "trigger": "wm_IME_KEYLAST\tWinMessages"
     },
     {
       "contents": "wm_IME_KEYUP",
-      "trigger": "wm_IME_KEYUP"
+      "trigger": "wm_IME_KEYUP\tWinMessages"
     },
     {
       "contents": "wm_IME_NOTIFY",
-      "trigger": "wm_IME_NOTIFY"
+      "trigger": "wm_IME_NOTIFY\tWinMessages"
     },
     {
       "contents": "wm_IME_REQUEST",
-      "trigger": "wm_IME_REQUEST"
+      "trigger": "wm_IME_REQUEST\tWinMessages"
     },
     {
       "contents": "wm_IME_SELECT",
-      "trigger": "wm_IME_SELECT"
+      "trigger": "wm_IME_SELECT\tWinMessages"
     },
     {
       "contents": "wm_IME_SETCONTEXT",
-      "trigger": "wm_IME_SETCONTEXT"
+      "trigger": "wm_IME_SETCONTEXT\tWinMessages"
     },
     {
       "contents": "wm_IME_STARTCOMPOSITION",
-      "trigger": "wm_IME_STARTCOMPOSITION"
+      "trigger": "wm_IME_STARTCOMPOSITION\tWinMessages"
     },
     {
       "contents": "wm_INITDIALOG",
-      "trigger": "wm_INITDIALOG"
+      "trigger": "wm_INITDIALOG\tWinMessages"
     },
     {
       "contents": "wm_INITMENU",
-      "trigger": "wm_INITMENU"
+      "trigger": "wm_INITMENU\tWinMessages"
     },
     {
       "contents": "wm_INITMENUPOPUP",
-      "trigger": "wm_INITMENUPOPUP"
+      "trigger": "wm_INITMENUPOPUP\tWinMessages"
     },
     {
       "contents": "wm_INPUT",
-      "trigger": "wm_INPUT"
+      "trigger": "wm_INPUT\tWinMessages"
     },
     {
       "contents": "wm_INPUTLANGCHANGE",
-      "trigger": "wm_INPUTLANGCHANGE"
+      "trigger": "wm_INPUTLANGCHANGE\tWinMessages"
     },
     {
       "contents": "wm_INPUTLANGCHANGEREQUEST",
-      "trigger": "wm_INPUTLANGCHANGEREQUEST"
+      "trigger": "wm_INPUTLANGCHANGEREQUEST\tWinMessages"
     },
     {
       "contents": "wm_KEYDOWN",
-      "trigger": "wm_KEYDOWN"
+      "trigger": "wm_KEYDOWN\tWinMessages"
     },
     {
       "contents": "wm_KEYFIRST",
-      "trigger": "wm_KEYFIRST"
+      "trigger": "wm_KEYFIRST\tWinMessages"
     },
     {
       "contents": "wm_KEYLAST",
-      "trigger": "wm_KEYLAST"
+      "trigger": "wm_KEYLAST\tWinMessages"
     },
     {
       "contents": "wm_KEYUP",
-      "trigger": "wm_KEYUP"
+      "trigger": "wm_KEYUP\tWinMessages"
     },
     {
       "contents": "wm_KILLFOCUS",
-      "trigger": "wm_KILLFOCUS"
+      "trigger": "wm_KILLFOCUS\tWinMessages"
     },
     {
       "contents": "wm_LBUTTONDBLCLK",
-      "trigger": "wm_LBUTTONDBLCLK"
+      "trigger": "wm_LBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_LBUTTONDOWN",
-      "trigger": "wm_LBUTTONDOWN"
+      "trigger": "wm_LBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_LBUTTONUP",
-      "trigger": "wm_LBUTTONUP"
+      "trigger": "wm_LBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_MBUTTONDBLCLK",
-      "trigger": "wm_MBUTTONDBLCLK"
+      "trigger": "wm_MBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_MBUTTONDOWN",
-      "trigger": "wm_MBUTTONDOWN"
+      "trigger": "wm_MBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_MBUTTONUP",
-      "trigger": "wm_MBUTTONUP"
+      "trigger": "wm_MBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_MDIACTIVATE",
-      "trigger": "wm_MDIACTIVATE"
+      "trigger": "wm_MDIACTIVATE\tWinMessages"
     },
     {
       "contents": "wm_MDICASCADE",
-      "trigger": "wm_MDICASCADE"
+      "trigger": "wm_MDICASCADE\tWinMessages"
     },
     {
       "contents": "wm_MDICREATE",
-      "trigger": "wm_MDICREATE"
+      "trigger": "wm_MDICREATE\tWinMessages"
     },
     {
       "contents": "wm_MDIDESTROY",
-      "trigger": "wm_MDIDESTROY"
+      "trigger": "wm_MDIDESTROY\tWinMessages"
     },
     {
       "contents": "wm_MDIGETACTIVE",
-      "trigger": "wm_MDIGETACTIVE"
+      "trigger": "wm_MDIGETACTIVE\tWinMessages"
     },
     {
       "contents": "wm_MDIICONARRANGE",
-      "trigger": "wm_MDIICONARRANGE"
+      "trigger": "wm_MDIICONARRANGE\tWinMessages"
     },
     {
       "contents": "wm_MDIMAXIMIZE",
-      "trigger": "wm_MDIMAXIMIZE"
+      "trigger": "wm_MDIMAXIMIZE\tWinMessages"
     },
     {
       "contents": "wm_MDINEXT",
-      "trigger": "wm_MDINEXT"
+      "trigger": "wm_MDINEXT\tWinMessages"
     },
     {
       "contents": "wm_MDIREFRESHMENU",
-      "trigger": "wm_MDIREFRESHMENU"
+      "trigger": "wm_MDIREFRESHMENU\tWinMessages"
     },
     {
       "contents": "wm_MDIRESTORE",
-      "trigger": "wm_MDIRESTORE"
+      "trigger": "wm_MDIRESTORE\tWinMessages"
     },
     {
       "contents": "wm_MDISETMENU",
-      "trigger": "wm_MDISETMENU"
+      "trigger": "wm_MDISETMENU\tWinMessages"
     },
     {
       "contents": "wm_MDITILE",
-      "trigger": "wm_MDITILE"
+      "trigger": "wm_MDITILE\tWinMessages"
     },
     {
       "contents": "wm_MEASUREITEM",
-      "trigger": "wm_MEASUREITEM"
+      "trigger": "wm_MEASUREITEM\tWinMessages"
     },
     {
       "contents": "wm_MENUCHAR",
-      "trigger": "wm_MENUCHAR"
+      "trigger": "wm_MENUCHAR\tWinMessages"
     },
     {
       "contents": "wm_MENUCOMMAND",
-      "trigger": "wm_MENUCOMMAND"
+      "trigger": "wm_MENUCOMMAND\tWinMessages"
     },
     {
       "contents": "wm_MENUDRAG",
-      "trigger": "wm_MENUDRAG"
+      "trigger": "wm_MENUDRAG\tWinMessages"
     },
     {
       "contents": "wm_MENUGETOBJECT",
-      "trigger": "wm_MENUGETOBJECT"
+      "trigger": "wm_MENUGETOBJECT\tWinMessages"
     },
     {
       "contents": "wm_MENURBUTTONUP",
-      "trigger": "wm_MENURBUTTONUP"
+      "trigger": "wm_MENURBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_MENUSELECT",
-      "trigger": "wm_MENUSELECT"
+      "trigger": "wm_MENUSELECT\tWinMessages"
     },
     {
       "contents": "wm_MOUSEACTIVATE",
-      "trigger": "wm_MOUSEACTIVATE"
+      "trigger": "wm_MOUSEACTIVATE\tWinMessages"
     },
     {
       "contents": "wm_MOUSEFIRST",
-      "trigger": "wm_MOUSEFIRST"
+      "trigger": "wm_MOUSEFIRST\tWinMessages"
     },
     {
       "contents": "wm_MOUSEHOVER",
-      "trigger": "wm_MOUSEHOVER"
+      "trigger": "wm_MOUSEHOVER\tWinMessages"
     },
     {
       "contents": "wm_MOUSELAST",
-      "trigger": "wm_MOUSELAST"
+      "trigger": "wm_MOUSELAST\tWinMessages"
     },
     {
       "contents": "wm_MOUSELEAVE",
-      "trigger": "wm_MOUSELEAVE"
+      "trigger": "wm_MOUSELEAVE\tWinMessages"
     },
     {
       "contents": "wm_MOUSEMOVE",
-      "trigger": "wm_MOUSEMOVE"
+      "trigger": "wm_MOUSEMOVE\tWinMessages"
     },
     {
       "contents": "wm_MOUSEWHEEL",
-      "trigger": "wm_MOUSEWHEEL"
+      "trigger": "wm_MOUSEWHEEL\tWinMessages"
     },
     {
       "contents": "wm_MOVE",
-      "trigger": "wm_MOVE"
+      "trigger": "wm_MOVE\tWinMessages"
     },
     {
       "contents": "wm_MOVING",
-      "trigger": "wm_MOVING"
+      "trigger": "wm_MOVING\tWinMessages"
     },
     {
       "contents": "wm_NCACTIVATE",
-      "trigger": "wm_NCACTIVATE"
+      "trigger": "wm_NCACTIVATE\tWinMessages"
     },
     {
       "contents": "wm_NCCALCSIZE",
-      "trigger": "wm_NCCALCSIZE"
+      "trigger": "wm_NCCALCSIZE\tWinMessages"
     },
     {
       "contents": "wm_NCCREATE",
-      "trigger": "wm_NCCREATE"
+      "trigger": "wm_NCCREATE\tWinMessages"
     },
     {
       "contents": "wm_NCDESTROY",
-      "trigger": "wm_NCDESTROY"
+      "trigger": "wm_NCDESTROY\tWinMessages"
     },
     {
       "contents": "wm_NCHITTEST",
-      "trigger": "wm_NCHITTEST"
+      "trigger": "wm_NCHITTEST\tWinMessages"
     },
     {
       "contents": "wm_NCLBUTTONDBLCLK",
-      "trigger": "wm_NCLBUTTONDBLCLK"
+      "trigger": "wm_NCLBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_NCLBUTTONDOWN",
-      "trigger": "wm_NCLBUTTONDOWN"
+      "trigger": "wm_NCLBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_NCLBUTTONUP",
-      "trigger": "wm_NCLBUTTONUP"
+      "trigger": "wm_NCLBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_NCMBUTTONDBLCLK",
-      "trigger": "wm_NCMBUTTONDBLCLK"
+      "trigger": "wm_NCMBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_NCMBUTTONDOWN",
-      "trigger": "wm_NCMBUTTONDOWN"
+      "trigger": "wm_NCMBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_NCMBUTTONUP",
-      "trigger": "wm_NCMBUTTONUP"
+      "trigger": "wm_NCMBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_NCMOUSEHOVER",
-      "trigger": "wm_NCMOUSEHOVER"
+      "trigger": "wm_NCMOUSEHOVER\tWinMessages"
     },
     {
       "contents": "wm_NCMOUSELEAVE",
-      "trigger": "wm_NCMOUSELEAVE"
+      "trigger": "wm_NCMOUSELEAVE\tWinMessages"
     },
     {
       "contents": "wm_NCMOUSEMOVE",
-      "trigger": "wm_NCMOUSEMOVE"
+      "trigger": "wm_NCMOUSEMOVE\tWinMessages"
     },
     {
       "contents": "wm_NCPAINT",
-      "trigger": "wm_NCPAINT"
+      "trigger": "wm_NCPAINT\tWinMessages"
     },
     {
       "contents": "wm_NCRBUTTONDBLCLK",
-      "trigger": "wm_NCRBUTTONDBLCLK"
+      "trigger": "wm_NCRBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_NCRBUTTONDOWN",
-      "trigger": "wm_NCRBUTTONDOWN"
+      "trigger": "wm_NCRBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_NCRBUTTONUP",
-      "trigger": "wm_NCRBUTTONUP"
+      "trigger": "wm_NCRBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_NCXBUTTONDBLCLK",
-      "trigger": "wm_NCXBUTTONDBLCLK"
+      "trigger": "wm_NCXBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_NCXBUTTONDOWN",
-      "trigger": "wm_NCXBUTTONDOWN"
+      "trigger": "wm_NCXBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_NCXBUTTONUP",
-      "trigger": "wm_NCXBUTTONUP"
+      "trigger": "wm_NCXBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_NEXTDLGCTL",
-      "trigger": "wm_NEXTDLGCTL"
+      "trigger": "wm_NEXTDLGCTL\tWinMessages"
     },
     {
       "contents": "wm_NEXTMENU",
-      "trigger": "wm_NEXTMENU"
+      "trigger": "wm_NEXTMENU\tWinMessages"
     },
     {
       "contents": "wm_NOTIFY",
-      "trigger": "wm_NOTIFY"
+      "trigger": "wm_NOTIFY\tWinMessages"
     },
     {
       "contents": "wm_NOTIFYFORMAT",
-      "trigger": "wm_NOTIFYFORMAT"
+      "trigger": "wm_NOTIFYFORMAT\tWinMessages"
     },
     {
       "contents": "wm_NULL",
-      "trigger": "wm_NULL"
+      "trigger": "wm_NULL\tWinMessages"
     },
     {
       "contents": "wm_PAINT",
-      "trigger": "wm_PAINT"
+      "trigger": "wm_PAINT\tWinMessages"
     },
     {
       "contents": "wm_PAINTCLIPBOARD",
-      "trigger": "wm_PAINTCLIPBOARD"
+      "trigger": "wm_PAINTCLIPBOARD\tWinMessages"
     },
     {
       "contents": "wm_PAINTICON",
-      "trigger": "wm_PAINTICON"
+      "trigger": "wm_PAINTICON\tWinMessages"
     },
     {
       "contents": "wm_PALETTECHANGED",
-      "trigger": "wm_PALETTECHANGED"
+      "trigger": "wm_PALETTECHANGED\tWinMessages"
     },
     {
       "contents": "wm_PALETTEISCHANGING",
-      "trigger": "wm_PALETTEISCHANGING"
+      "trigger": "wm_PALETTEISCHANGING\tWinMessages"
     },
     {
       "contents": "wm_PARENTNOTIFY",
-      "trigger": "wm_PARENTNOTIFY"
+      "trigger": "wm_PARENTNOTIFY\tWinMessages"
     },
     {
       "contents": "wm_PASTE",
-      "trigger": "wm_PASTE"
+      "trigger": "wm_PASTE\tWinMessages"
     },
     {
       "contents": "wm_PENWINFIRST",
-      "trigger": "wm_PENWINFIRST"
+      "trigger": "wm_PENWINFIRST\tWinMessages"
     },
     {
       "contents": "wm_PENWINLAST",
-      "trigger": "wm_PENWINLAST"
+      "trigger": "wm_PENWINLAST\tWinMessages"
     },
     {
       "contents": "wm_POWER",
-      "trigger": "wm_POWER"
+      "trigger": "wm_POWER\tWinMessages"
     },
     {
       "contents": "wm_POWERBROADCAST",
-      "trigger": "wm_POWERBROADCAST"
+      "trigger": "wm_POWERBROADCAST\tWinMessages"
     },
     {
       "contents": "wm_PRINT",
-      "trigger": "wm_PRINT"
+      "trigger": "wm_PRINT\tWinMessages"
     },
     {
       "contents": "wm_PRINTCLIENT",
-      "trigger": "wm_PRINTCLIENT"
+      "trigger": "wm_PRINTCLIENT\tWinMessages"
     },
     {
       "contents": "wm_QUERYDRAGICON",
-      "trigger": "wm_QUERYDRAGICON"
+      "trigger": "wm_QUERYDRAGICON\tWinMessages"
     },
     {
       "contents": "wm_QUERYENDSESSION",
-      "trigger": "wm_QUERYENDSESSION"
+      "trigger": "wm_QUERYENDSESSION\tWinMessages"
     },
     {
       "contents": "wm_QUERYNEWPALETTE",
-      "trigger": "wm_QUERYNEWPALETTE"
+      "trigger": "wm_QUERYNEWPALETTE\tWinMessages"
     },
     {
       "contents": "wm_QUERYOPEN",
-      "trigger": "wm_QUERYOPEN"
+      "trigger": "wm_QUERYOPEN\tWinMessages"
     },
     {
       "contents": "wm_QUERYUISTATE",
-      "trigger": "wm_QUERYUISTATE"
+      "trigger": "wm_QUERYUISTATE\tWinMessages"
     },
     {
       "contents": "wm_QUEUESYNC",
-      "trigger": "wm_QUEUESYNC"
+      "trigger": "wm_QUEUESYNC\tWinMessages"
     },
     {
       "contents": "wm_QUIT",
-      "trigger": "wm_QUIT"
+      "trigger": "wm_QUIT\tWinMessages"
     },
     {
       "contents": "wm_RASDIALEVENT",
-      "trigger": "wm_RASDIALEVENT"
+      "trigger": "wm_RASDIALEVENT\tWinMessages"
     },
     {
       "contents": "wm_RBUTTONDBLCLK",
-      "trigger": "wm_RBUTTONDBLCLK"
+      "trigger": "wm_RBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_RBUTTONDOWN",
-      "trigger": "wm_RBUTTONDOWN"
+      "trigger": "wm_RBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_RBUTTONUP",
-      "trigger": "wm_RBUTTONUP"
+      "trigger": "wm_RBUTTONUP\tWinMessages"
     },
     {
       "contents": "wm_RENDERALLFORMATS",
-      "trigger": "wm_RENDERALLFORMATS"
+      "trigger": "wm_RENDERALLFORMATS\tWinMessages"
     },
     {
       "contents": "wm_RENDERFORMAT",
-      "trigger": "wm_RENDERFORMAT"
+      "trigger": "wm_RENDERFORMAT\tWinMessages"
     },
     {
       "contents": "wm_SETCURSOR",
-      "trigger": "wm_SETCURSOR"
+      "trigger": "wm_SETCURSOR\tWinMessages"
     },
     {
       "contents": "wm_SETFOCUS",
-      "trigger": "wm_SETFOCUS"
+      "trigger": "wm_SETFOCUS\tWinMessages"
     },
     {
       "contents": "wm_SETFONT",
-      "trigger": "wm_SETFONT"
+      "trigger": "wm_SETFONT\tWinMessages"
     },
     {
       "contents": "wm_SETHOTKEY",
-      "trigger": "wm_SETHOTKEY"
+      "trigger": "wm_SETHOTKEY\tWinMessages"
     },
     {
       "contents": "wm_SETICON",
-      "trigger": "wm_SETICON"
+      "trigger": "wm_SETICON\tWinMessages"
     },
     {
       "contents": "wm_SETREDRAW",
-      "trigger": "wm_SETREDRAW"
+      "trigger": "wm_SETREDRAW\tWinMessages"
     },
     {
       "contents": "wm_SETTEXT",
-      "trigger": "wm_SETTEXT"
+      "trigger": "wm_SETTEXT\tWinMessages"
     },
     {
       "contents": "wm_SETTINGCHANGE",
-      "trigger": "wm_SETTINGCHANGE"
+      "trigger": "wm_SETTINGCHANGE\tWinMessages"
     },
     {
       "contents": "wm_SHOWWINDOW",
-      "trigger": "wm_SHOWWINDOW"
+      "trigger": "wm_SHOWWINDOW\tWinMessages"
     },
     {
       "contents": "wm_SIZE",
-      "trigger": "wm_SIZE"
+      "trigger": "wm_SIZE\tWinMessages"
     },
     {
       "contents": "wm_SIZECLIPBOARD",
-      "trigger": "wm_SIZECLIPBOARD"
+      "trigger": "wm_SIZECLIPBOARD\tWinMessages"
     },
     {
       "contents": "wm_SIZING",
-      "trigger": "wm_SIZING"
+      "trigger": "wm_SIZING\tWinMessages"
     },
     {
       "contents": "wm_SPOOLERSTATUS",
-      "trigger": "wm_SPOOLERSTATUS"
+      "trigger": "wm_SPOOLERSTATUS\tWinMessages"
     },
     {
       "contents": "wm_STYLECHANGED",
-      "trigger": "wm_STYLECHANGED"
+      "trigger": "wm_STYLECHANGED\tWinMessages"
     },
     {
       "contents": "wm_STYLECHANGING",
-      "trigger": "wm_STYLECHANGING"
+      "trigger": "wm_STYLECHANGING\tWinMessages"
     },
     {
       "contents": "wm_SYNCPAINT",
-      "trigger": "wm_SYNCPAINT"
+      "trigger": "wm_SYNCPAINT\tWinMessages"
     },
     {
       "contents": "wm_SYSCHAR",
-      "trigger": "wm_SYSCHAR"
+      "trigger": "wm_SYSCHAR\tWinMessages"
     },
     {
       "contents": "wm_SYSCOLORCHANGE",
-      "trigger": "wm_SYSCOLORCHANGE"
+      "trigger": "wm_SYSCOLORCHANGE\tWinMessages"
     },
     {
       "contents": "wm_SYSCOMMAND",
-      "trigger": "wm_SYSCOMMAND"
+      "trigger": "wm_SYSCOMMAND\tWinMessages"
     },
     {
       "contents": "wm_SYSDEADCHAR",
-      "trigger": "wm_SYSDEADCHAR"
+      "trigger": "wm_SYSDEADCHAR\tWinMessages"
     },
     {
       "contents": "wm_SYSKEYDOWN",
-      "trigger": "wm_SYSKEYDOWN"
+      "trigger": "wm_SYSKEYDOWN\tWinMessages"
     },
     {
       "contents": "wm_SYSKEYUP",
-      "trigger": "wm_SYSKEYUP"
+      "trigger": "wm_SYSKEYUP\tWinMessages"
     },
     {
       "contents": "wm_TABLET_FIRST",
-      "trigger": "wm_TABLET_FIRST"
+      "trigger": "wm_TABLET_FIRST\tWinMessages"
     },
     {
       "contents": "wm_TABLET_LAST",
-      "trigger": "wm_TABLET_LAST"
+      "trigger": "wm_TABLET_LAST\tWinMessages"
     },
     {
       "contents": "wm_TCARD",
-      "trigger": "wm_TCARD"
+      "trigger": "wm_TCARD\tWinMessages"
     },
     {
       "contents": "wm_THEMECHANGED",
-      "trigger": "wm_THEMECHANGED"
+      "trigger": "wm_THEMECHANGED\tWinMessages"
     },
     {
       "contents": "wm_TIMECHANGE",
-      "trigger": "wm_TIMECHANGE"
+      "trigger": "wm_TIMECHANGE\tWinMessages"
     },
     {
       "contents": "wm_TIMER",
-      "trigger": "wm_TIMER"
+      "trigger": "wm_TIMER\tWinMessages"
     },
     {
       "contents": "wm_UNDO",
-      "trigger": "wm_UNDO"
+      "trigger": "wm_UNDO\tWinMessages"
     },
     {
       "contents": "wm_UNICHAR",
-      "trigger": "wm_UNICHAR"
+      "trigger": "wm_UNICHAR\tWinMessages"
     },
     {
       "contents": "wm_UNINITMENUPOPUP",
-      "trigger": "wm_UNINITMENUPOPUP"
+      "trigger": "wm_UNINITMENUPOPUP\tWinMessages"
     },
     {
       "contents": "wm_UPDATEUISTATE",
-      "trigger": "wm_UPDATEUISTATE"
+      "trigger": "wm_UPDATEUISTATE\tWinMessages"
     },
     {
       "contents": "wm_USER",
-      "trigger": "wm_USER"
+      "trigger": "wm_USER\tWinMessages"
     },
     {
       "contents": "wm_USERCHANGED",
-      "trigger": "wm_USERCHANGED"
+      "trigger": "wm_USERCHANGED\tWinMessages"
     },
     {
       "contents": "wm_VKEYTOITEM",
-      "trigger": "wm_VKEYTOITEM"
+      "trigger": "wm_VKEYTOITEM\tWinMessages"
     },
     {
       "contents": "wm_VSCROLL",
-      "trigger": "wm_VSCROLL"
+      "trigger": "wm_VSCROLL\tWinMessages"
     },
     {
       "contents": "wm_VSCROLLCLIPBOARD",
-      "trigger": "wm_VSCROLLCLIPBOARD"
+      "trigger": "wm_VSCROLLCLIPBOARD\tWinMessages"
     },
     {
       "contents": "wm_WINDOWPOSCHANGED",
-      "trigger": "wm_WINDOWPOSCHANGED"
+      "trigger": "wm_WINDOWPOSCHANGED\tWinMessages"
     },
     {
       "contents": "wm_WINDOWPOSCHANGING",
-      "trigger": "wm_WINDOWPOSCHANGING"
+      "trigger": "wm_WINDOWPOSCHANGING\tWinMessages"
     },
     {
       "contents": "wm_WININICHANGE",
-      "trigger": "wm_WININICHANGE"
+      "trigger": "wm_WININICHANGE\tWinMessages"
     },
     {
       "contents": "wm_WTSSESSION_CHANGE",
-      "trigger": "wm_WTSSESSION_CHANGE"
+      "trigger": "wm_WTSSESSION_CHANGE\tWinMessages"
     },
     {
       "contents": "wm_XBUTTONDBLCLK",
-      "trigger": "wm_XBUTTONDBLCLK"
+      "trigger": "wm_XBUTTONDBLCLK\tWinMessages"
     },
     {
       "contents": "wm_XBUTTONDOWN",
-      "trigger": "wm_XBUTTONDOWN"
+      "trigger": "wm_XBUTTONDOWN\tWinMessages"
     },
     {
       "contents": "wm_XBUTTONUP",
-      "trigger": "wm_XBUTTONUP"
+      "trigger": "wm_XBUTTONUP\tWinMessages"
     }
   ]
 }
